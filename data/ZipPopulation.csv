@@ -1,0 +1,913 @@
+"Zip","Race","Income","Poverty","Population","HealthBurden"
+21201,"Non-Hispanic Asian","Less than $25k",1,113,25
+21201,"Non-Hispanic White","Less than $25k",1,478,25
+21201,"Non-Hispanic Black","Less than $25k",1,706,25
+21201,"Mexican American","Less than $25k",1,9,25
+21201,"Other Hispanic","Less than $25k",1,48,25
+21201,"Other Race - Including Multi-Racial","Less than $25k",1,62,25
+21201,"Non-Hispanic Asian","$25k - $55k",1,98,25
+21201,"Non-Hispanic White","$25k - $55k",1,416,25
+21201,"Non-Hispanic Black","$25k - $55k",1,615,25
+21201,"Mexican American","$25k - $55k",1,8,25
+21201,"Other Hispanic","$25k - $55k",1,42,25
+21201,"Other Race - Including Multi-Racial","$25k - $55k",1,54,25
+21201,"Non-Hispanic Asian","$55k - $75k",1,54,25
+21201,"Non-Hispanic White","$55k - $75k",1,229,25
+21201,"Non-Hispanic Black","$55k - $75k",1,338,25
+21201,"Mexican American","$55k - $75k",1,4,25
+21201,"Other Hispanic","$55k - $75k",1,23,25
+21201,"Other Race - Including Multi-Racial","$55k - $75k",1,30,25
+21201,"Non-Hispanic Asian","More than $75k",1,130,25
+21201,"Non-Hispanic White","More than $75k",1,549,25
+21201,"Non-Hispanic Black","More than $75k",1,810,25
+21201,"Mexican American","More than $75k",1,10,25
+21201,"Other Hispanic","More than $75k",1,55,25
+21201,"Other Race - Including Multi-Racial","More than $75k",1,71,25
+21201,"Non-Hispanic Asian","Less than $25k",0,278,25
+21201,"Non-Hispanic White","Less than $25k",0,1177,25
+21201,"Non-Hispanic Black","Less than $25k",0,1738,25
+21201,"Mexican American","Less than $25k",0,22,25
+21201,"Other Hispanic","Less than $25k",0,118,25
+21201,"Other Race - Including Multi-Racial","Less than $25k",0,152,25
+21201,"Non-Hispanic Asian","$25k - $55k",0,242,25
+21201,"Non-Hispanic White","$25k - $55k",0,1025,25
+21201,"Non-Hispanic Black","$25k - $55k",0,1513,25
+21201,"Mexican American","$25k - $55k",0,19,25
+21201,"Other Hispanic","$25k - $55k",0,102,25
+21201,"Other Race - Including Multi-Racial","$25k - $55k",0,132,25
+21201,"Non-Hispanic Asian","$55k - $75k",0,133,25
+21201,"Non-Hispanic White","$55k - $75k",0,564,25
+21201,"Non-Hispanic Black","$55k - $75k",0,833,25
+21201,"Mexican American","$55k - $75k",0,10,25
+21201,"Other Hispanic","$55k - $75k",0,56,25
+21201,"Other Race - Including Multi-Racial","$55k - $75k",0,73,25
+21201,"Non-Hispanic Asian","More than $75k",0,319,25
+21201,"Non-Hispanic White","More than $75k",0,1350,25
+21201,"Non-Hispanic Black","More than $75k",0,1994,25
+21201,"Mexican American","More than $75k",0,25,25
+21201,"Other Hispanic","More than $75k",0,135,25
+21201,"Other Race - Including Multi-Racial","More than $75k",0,174,25
+21202,"Non-Hispanic Asian","Less than $25k",1,64,25
+21202,"Non-Hispanic White","Less than $25k",1,428,25
+21202,"Non-Hispanic Black","Less than $25k",1,817,25
+21202,"Mexican American","Less than $25k",1,14,25
+21202,"Other Hispanic","Less than $25k",1,45,25
+21202,"Other Race - Including Multi-Racial","Less than $25k",1,41,25
+21202,"Non-Hispanic Asian","$25k - $55k",1,60,25
+21202,"Non-Hispanic White","$25k - $55k",1,396,25
+21202,"Non-Hispanic Black","$25k - $55k",1,756,25
+21202,"Mexican American","$25k - $55k",1,13,25
+21202,"Other Hispanic","$25k - $55k",1,42,25
+21202,"Other Race - Including Multi-Racial","$25k - $55k",1,38,25
+21202,"Non-Hispanic Asian","$55k - $75k",1,43,25
+21202,"Non-Hispanic White","$55k - $75k",1,287,25
+21202,"Non-Hispanic Black","$55k - $75k",1,548,25
+21202,"Mexican American","$55k - $75k",1,10,25
+21202,"Other Hispanic","$55k - $75k",1,30,25
+21202,"Other Race - Including Multi-Racial","$55k - $75k",1,27,25
+21202,"Non-Hispanic Asian","More than $75k",1,98,25
+21202,"Non-Hispanic White","More than $75k",1,649,25
+21202,"Non-Hispanic Black","More than $75k",1,1241,25
+21202,"Mexican American","More than $75k",1,22,25
+21202,"Other Hispanic","More than $75k",1,68,25
+21202,"Other Race - Including Multi-Racial","More than $75k",1,62,25
+21202,"Non-Hispanic Asian","Less than $25k",0,169,25
+21202,"Non-Hispanic White","Less than $25k",0,1122,25
+21202,"Non-Hispanic Black","Less than $25k",0,2143,25
+21202,"Mexican American","Less than $25k",0,37,25
+21202,"Other Hispanic","Less than $25k",0,118,25
+21202,"Other Race - Including Multi-Racial","Less than $25k",0,107,25
+21202,"Non-Hispanic Asian","$25k - $55k",0,157,25
+21202,"Non-Hispanic White","$25k - $55k",0,1039,25
+21202,"Non-Hispanic Black","$25k - $55k",0,1984,25
+21202,"Mexican American","$25k - $55k",0,35,25
+21202,"Other Hispanic","$25k - $55k",0,109,25
+21202,"Other Race - Including Multi-Racial","$25k - $55k",0,99,25
+21202,"Non-Hispanic Asian","$55k - $75k",0,113,25
+21202,"Non-Hispanic White","$55k - $75k",0,753,25
+21202,"Non-Hispanic Black","$55k - $75k",0,1438,25
+21202,"Mexican American","$55k - $75k",0,25,25
+21202,"Other Hispanic","$55k - $75k",0,79,25
+21202,"Other Race - Including Multi-Racial","$55k - $75k",0,72,25
+21202,"Non-Hispanic Asian","More than $75k",0,257,25
+21202,"Non-Hispanic White","More than $75k",0,1703,25
+21202,"Non-Hispanic Black","More than $75k",0,3254,25
+21202,"Mexican American","More than $75k",0,57,25
+21202,"Other Hispanic","More than $75k",0,179,25
+21202,"Other Race - Including Multi-Racial","More than $75k",0,162,25
+21205,"Non-Hispanic Asian","Less than $25k",1,29,25
+21205,"Non-Hispanic White","Less than $25k",1,321,25
+21205,"Non-Hispanic Black","Less than $25k",1,1172,25
+21205,"Mexican American","Less than $25k",1,43,25
+21205,"Other Hispanic","Less than $25k",1,247,25
+21205,"Other Race - Including Multi-Racial","Less than $25k",1,51,25
+21205,"Non-Hispanic Asian","$25k - $55k",1,23,25
+21205,"Non-Hispanic White","$25k - $55k",1,255,25
+21205,"Non-Hispanic Black","$25k - $55k",1,929,25
+21205,"Mexican American","$25k - $55k",1,34,25
+21205,"Other Hispanic","$25k - $55k",1,196,25
+21205,"Other Race - Including Multi-Racial","$25k - $55k",1,41,25
+21205,"Non-Hispanic Asian","$55k - $75k",1,14,25
+21205,"Non-Hispanic White","$55k - $75k",1,157,25
+21205,"Non-Hispanic Black","$55k - $75k",1,575,25
+21205,"Mexican American","$55k - $75k",1,21,25
+21205,"Other Hispanic","$55k - $75k",1,121,25
+21205,"Other Race - Including Multi-Racial","$55k - $75k",1,25,25
+21205,"Non-Hispanic Asian","More than $75k",1,15,25
+21205,"Non-Hispanic White","More than $75k",1,166,25
+21205,"Non-Hispanic Black","More than $75k",1,607,25
+21205,"Mexican American","More than $75k",1,22,25
+21205,"Other Hispanic","More than $75k",1,128,25
+21205,"Other Race - Including Multi-Racial","More than $75k",1,27,25
+21205,"Non-Hispanic Asian","Less than $25k",0,52,25
+21205,"Non-Hispanic White","Less than $25k",0,576,25
+21205,"Non-Hispanic Black","Less than $25k",0,2101,25
+21205,"Mexican American","Less than $25k",0,77,25
+21205,"Other Hispanic","Less than $25k",0,443,25
+21205,"Other Race - Including Multi-Racial","Less than $25k",0,92,25
+21205,"Non-Hispanic Asian","$25k - $55k",0,41,25
+21205,"Non-Hispanic White","$25k - $55k",0,456,25
+21205,"Non-Hispanic Black","$25k - $55k",0,1666,25
+21205,"Mexican American","$25k - $55k",0,61,25
+21205,"Other Hispanic","$25k - $55k",0,351,25
+21205,"Other Race - Including Multi-Racial","$25k - $55k",0,73,25
+21205,"Non-Hispanic Asian","$55k - $75k",0,26,25
+21205,"Non-Hispanic White","$55k - $75k",0,282,25
+21205,"Non-Hispanic Black","$55k - $75k",0,1030,25
+21205,"Mexican American","$55k - $75k",0,38,25
+21205,"Other Hispanic","$55k - $75k",0,217,25
+21205,"Other Race - Including Multi-Racial","$55k - $75k",0,45,25
+21205,"Non-Hispanic Asian","More than $75k",0,27,25
+21205,"Non-Hispanic White","More than $75k",0,298,25
+21205,"Non-Hispanic Black","More than $75k",0,1089,25
+21205,"Mexican American","More than $75k",0,40,25
+21205,"Other Hispanic","More than $75k",0,230,25
+21205,"Other Race - Including Multi-Racial","More than $75k",0,48,25
+21206,"Non-Hispanic Asian","Less than $25k",1,13,25
+21206,"Non-Hispanic White","Less than $25k",1,187,25
+21206,"Non-Hispanic Black","Less than $25k",1,629,25
+21206,"Mexican American","Less than $25k",1,11,25
+21206,"Other Hispanic","Less than $25k",1,22,25
+21206,"Other Race - Including Multi-Racial","Less than $25k",1,19,25
+21206,"Non-Hispanic Asian","$25k - $55k",1,21,25
+21206,"Non-Hispanic White","$25k - $55k",1,295,25
+21206,"Non-Hispanic Black","$25k - $55k",1,996,25
+21206,"Mexican American","$25k - $55k",1,18,25
+21206,"Other Hispanic","$25k - $55k",1,35,25
+21206,"Other Race - Including Multi-Racial","$25k - $55k",1,31,25
+21206,"Non-Hispanic Asian","$55k - $75k",1,17,25
+21206,"Non-Hispanic White","$55k - $75k",1,240,25
+21206,"Non-Hispanic Black","$55k - $75k",1,810,25
+21206,"Mexican American","$55k - $75k",1,14,25
+21206,"Other Hispanic","$55k - $75k",1,28,25
+21206,"Other Race - Including Multi-Racial","$55k - $75k",1,25,25
+21206,"Non-Hispanic Asian","More than $75k",1,44,25
+21206,"Non-Hispanic White","More than $75k",1,621,25
+21206,"Non-Hispanic Black","More than $75k",1,2091,25
+21206,"Mexican American","More than $75k",1,37,25
+21206,"Other Hispanic","More than $75k",1,73,25
+21206,"Other Race - Including Multi-Racial","More than $75k",1,65,25
+21206,"Non-Hispanic Asian","Less than $25k",0,95,25
+21206,"Non-Hispanic White","Less than $25k",0,1331,25
+21206,"Non-Hispanic Black","Less than $25k",0,4486,25
+21206,"Mexican American","Less than $25k",0,79,25
+21206,"Other Hispanic","Less than $25k",0,156,25
+21206,"Other Race - Including Multi-Racial","Less than $25k",0,139,25
+21206,"Non-Hispanic Asian","$25k - $55k",0,150,25
+21206,"Non-Hispanic White","$25k - $55k",0,2107,25
+21206,"Non-Hispanic Black","$25k - $55k",0,7099,25
+21206,"Mexican American","$25k - $55k",0,126,25
+21206,"Other Hispanic","$25k - $55k",0,247,25
+21206,"Other Race - Including Multi-Racial","$25k - $55k",0,219,25
+21206,"Non-Hispanic Asian","$55k - $75k",0,122,25
+21206,"Non-Hispanic White","$55k - $75k",0,1714,25
+21206,"Non-Hispanic Black","$55k - $75k",0,5776,25
+21206,"Mexican American","$55k - $75k",0,102,25
+21206,"Other Hispanic","$55k - $75k",0,201,25
+21206,"Other Race - Including Multi-Racial","$55k - $75k",0,178,25
+21206,"Non-Hispanic Asian","More than $75k",0,316,25
+21206,"Non-Hispanic White","More than $75k",0,4424,25
+21206,"Non-Hispanic Black","More than $75k",0,14908,25
+21206,"Mexican American","More than $75k",0,264,25
+21206,"Other Hispanic","More than $75k",0,519,25
+21206,"Other Race - Including Multi-Racial","More than $75k",0,460,25
+21209,"Non-Hispanic Asian","Less than $25k",1,15,25
+21209,"Non-Hispanic White","Less than $25k",1,141,25
+21209,"Non-Hispanic Black","Less than $25k",1,36,25
+21209,"Mexican American","Less than $25k",1,3,25
+21209,"Other Hispanic","Less than $25k",1,6,25
+21209,"Other Race - Including Multi-Racial","Less than $25k",1,4,25
+21209,"Non-Hispanic Asian","$25k - $55k",1,17,25
+21209,"Non-Hispanic White","$25k - $55k",1,166,25
+21209,"Non-Hispanic Black","$25k - $55k",1,43,25
+21209,"Mexican American","$25k - $55k",1,3,25
+21209,"Other Hispanic","$25k - $55k",1,7,25
+21209,"Other Race - Including Multi-Racial","$25k - $55k",1,5,25
+21209,"Non-Hispanic Asian","$55k - $75k",1,23,25
+21209,"Non-Hispanic White","$55k - $75k",1,223,25
+21209,"Non-Hispanic Black","$55k - $75k",1,57,25
+21209,"Mexican American","$55k - $75k",1,4,25
+21209,"Other Hispanic","$55k - $75k",1,9,25
+21209,"Other Race - Including Multi-Racial","$55k - $75k",1,6,25
+21209,"Non-Hispanic Asian","More than $75k",1,114,25
+21209,"Non-Hispanic White","More than $75k",1,1096,25
+21209,"Non-Hispanic Black","More than $75k",1,282,25
+21209,"Mexican American","More than $75k",1,19,25
+21209,"Other Hispanic","More than $75k",1,43,25
+21209,"Other Race - Including Multi-Racial","More than $75k",1,32,25
+21209,"Non-Hispanic Asian","Less than $25k",0,160,25
+21209,"Non-Hispanic White","Less than $25k",0,1542,25
+21209,"Non-Hispanic Black","Less than $25k",0,396,25
+21209,"Mexican American","Less than $25k",0,27,25
+21209,"Other Hispanic","Less than $25k",0,61,25
+21209,"Other Race - Including Multi-Racial","Less than $25k",0,45,25
+21209,"Non-Hispanic Asian","$25k - $55k",0,188,25
+21209,"Non-Hispanic White","$25k - $55k",0,1808,25
+21209,"Non-Hispanic Black","$25k - $55k",0,465,25
+21209,"Mexican American","$25k - $55k",0,32,25
+21209,"Other Hispanic","$25k - $55k",0,72,25
+21209,"Other Race - Including Multi-Racial","$25k - $55k",0,53,25
+21209,"Non-Hispanic Asian","$55k - $75k",0,252,25
+21209,"Non-Hispanic White","$55k - $75k",0,2429,25
+21209,"Non-Hispanic Black","$55k - $75k",0,624,25
+21209,"Mexican American","$55k - $75k",0,43,25
+21209,"Other Hispanic","$55k - $75k",0,96,25
+21209,"Other Race - Including Multi-Racial","$55k - $75k",0,71,25
+21209,"Non-Hispanic Asian","More than $75k",0,1242,25
+21209,"Non-Hispanic White","More than $75k",0,11951,25
+21209,"Non-Hispanic Black","More than $75k",0,3072,25
+21209,"Mexican American","More than $75k",0,212,25
+21209,"Other Hispanic","More than $75k",0,473,25
+21209,"Other Race - Including Multi-Racial","More than $75k",0,348,25
+21210,"Non-Hispanic Asian","Less than $25k",1,5,25
+21210,"Non-Hispanic White","Less than $25k",1,34,25
+21210,"Non-Hispanic Black","Less than $25k",1,4,25
+21210,"Mexican American","Less than $25k",1,0,25
+21210,"Other Hispanic","Less than $25k",1,2,25
+21210,"Other Race - Including Multi-Racial","Less than $25k",1,3,25
+21210,"Non-Hispanic Asian","$25k - $55k",1,8,25
+21210,"Non-Hispanic White","$25k - $55k",1,53,25
+21210,"Non-Hispanic Black","$25k - $55k",1,7,25
+21210,"Mexican American","$25k - $55k",1,1,25
+21210,"Other Hispanic","$25k - $55k",1,3,25
+21210,"Other Race - Including Multi-Racial","$25k - $55k",1,5,25
+21210,"Non-Hispanic Asian","$55k - $75k",1,13,25
+21210,"Non-Hispanic White","$55k - $75k",1,84,25
+21210,"Non-Hispanic Black","$55k - $75k",1,11,25
+21210,"Mexican American","$55k - $75k",1,1,25
+21210,"Other Hispanic","$55k - $75k",1,5,25
+21210,"Other Race - Including Multi-Racial","$55k - $75k",1,7,25
+21210,"Non-Hispanic Asian","More than $75k",1,113,25
+21210,"Non-Hispanic White","More than $75k",1,726,25
+21210,"Non-Hispanic Black","More than $75k",1,94,25
+21210,"Mexican American","More than $75k",1,9,25
+21210,"Other Hispanic","More than $75k",1,40,25
+21210,"Other Race - Including Multi-Racial","More than $75k",1,63,25
+21210,"Non-Hispanic Asian","Less than $25k",0,57,25
+21210,"Non-Hispanic White","Less than $25k",0,368,25
+21210,"Non-Hispanic Black","Less than $25k",0,48,25
+21210,"Mexican American","Less than $25k",0,5,25
+21210,"Other Hispanic","Less than $25k",0,20,25
+21210,"Other Race - Including Multi-Racial","Less than $25k",0,32,25
+21210,"Non-Hispanic Asian","$25k - $55k",0,89,25
+21210,"Non-Hispanic White","$25k - $55k",0,570,25
+21210,"Non-Hispanic Black","$25k - $55k",0,74,25
+21210,"Mexican American","$25k - $55k",0,7,25
+21210,"Other Hispanic","$25k - $55k",0,31,25
+21210,"Other Race - Including Multi-Racial","$25k - $55k",0,50,25
+21210,"Non-Hispanic Asian","$55k - $75k",0,142,25
+21210,"Non-Hispanic White","$55k - $75k",0,908,25
+21210,"Non-Hispanic Black","$55k - $75k",0,118,25
+21210,"Mexican American","$55k - $75k",0,11,25
+21210,"Other Hispanic","$55k - $75k",0,50,25
+21210,"Other Race - Including Multi-Racial","$55k - $75k",0,79,25
+21210,"Non-Hispanic Asian","More than $75k",0,1218,25
+21210,"Non-Hispanic White","More than $75k",0,7818,25
+21210,"Non-Hispanic Black","More than $75k",0,1015,25
+21210,"Mexican American","More than $75k",0,98,25
+21210,"Other Hispanic","More than $75k",0,432,25
+21210,"Other Race - Including Multi-Racial","More than $75k",0,680,25
+21211,"Non-Hispanic Asian","Less than $25k",1,8,25
+21211,"Non-Hispanic White","Less than $25k",1,119,25
+21211,"Non-Hispanic Black","Less than $25k",1,15,25
+21211,"Mexican American","Less than $25k",1,1,25
+21211,"Other Hispanic","Less than $25k",1,5,25
+21211,"Other Race - Including Multi-Racial","Less than $25k",1,4,25
+21211,"Non-Hispanic Asian","$25k - $55k",1,14,25
+21211,"Non-Hispanic White","$25k - $55k",1,198,25
+21211,"Non-Hispanic Black","$25k - $55k",1,25,25
+21211,"Mexican American","$25k - $55k",1,1,25
+21211,"Other Hispanic","$25k - $55k",1,8,25
+21211,"Other Race - Including Multi-Racial","$25k - $55k",1,6,25
+21211,"Non-Hispanic Asian","$55k - $75k",1,14,25
+21211,"Non-Hispanic White","$55k - $75k",1,204,25
+21211,"Non-Hispanic Black","$55k - $75k",1,26,25
+21211,"Mexican American","$55k - $75k",1,1,25
+21211,"Other Hispanic","$55k - $75k",1,8,25
+21211,"Other Race - Including Multi-Racial","$55k - $75k",1,6,25
+21211,"Non-Hispanic Asian","More than $75k",1,48,25
+21211,"Non-Hispanic White","More than $75k",1,694,25
+21211,"Non-Hispanic Black","More than $75k",1,87,25
+21211,"Mexican American","More than $75k",1,5,25
+21211,"Other Hispanic","More than $75k",1,27,25
+21211,"Other Race - Including Multi-Racial","More than $75k",1,22,25
+21211,"Non-Hispanic Asian","Less than $25k",0,79,25
+21211,"Non-Hispanic White","Less than $25k",0,1136,25
+21211,"Non-Hispanic Black","Less than $25k",0,143,25
+21211,"Mexican American","Less than $25k",0,8,25
+21211,"Other Hispanic","Less than $25k",0,44,25
+21211,"Other Race - Including Multi-Racial","Less than $25k",0,36,25
+21211,"Non-Hispanic Asian","$25k - $55k",0,131,25
+21211,"Non-Hispanic White","$25k - $55k",0,1888,25
+21211,"Non-Hispanic Black","$25k - $55k",0,238,25
+21211,"Mexican American","$25k - $55k",0,14,25
+21211,"Other Hispanic","$25k - $55k",0,73,25
+21211,"Other Race - Including Multi-Racial","$25k - $55k",0,60,25
+21211,"Non-Hispanic Asian","$55k - $75k",0,135,25
+21211,"Non-Hispanic White","$55k - $75k",0,1946,25
+21211,"Non-Hispanic Black","$55k - $75k",0,245,25
+21211,"Mexican American","$55k - $75k",0,14,25
+21211,"Other Hispanic","$55k - $75k",0,76,25
+21211,"Other Race - Including Multi-Racial","$55k - $75k",0,62,25
+21211,"Non-Hispanic Asian","More than $75k",0,460,25
+21211,"Non-Hispanic White","More than $75k",0,6614,25
+21211,"Non-Hispanic Black","More than $75k",0,833,25
+21211,"Mexican American","More than $75k",0,49,25
+21211,"Other Hispanic","More than $75k",0,257,25
+21211,"Other Race - Including Multi-Racial","More than $75k",0,209,25
+21212,"Non-Hispanic Asian","Less than $25k",1,13,25
+21212,"Non-Hispanic White","Less than $25k",1,143,25
+21212,"Non-Hispanic Black","Less than $25k",1,117,25
+21212,"Mexican American","Less than $25k",1,2,25
+21212,"Other Hispanic","Less than $25k",1,9,25
+21212,"Other Race - Including Multi-Racial","Less than $25k",1,6,25
+21212,"Non-Hispanic Asian","$25k - $55k",1,22,25
+21212,"Non-Hispanic White","$25k - $55k",1,243,25
+21212,"Non-Hispanic Black","$25k - $55k",1,198,25
+21212,"Mexican American","$25k - $55k",1,4,25
+21212,"Other Hispanic","$25k - $55k",1,16,25
+21212,"Other Race - Including Multi-Racial","$25k - $55k",1,10,25
+21212,"Non-Hispanic Asian","$55k - $75k",1,27,25
+21212,"Non-Hispanic White","$55k - $75k",1,302,25
+21212,"Non-Hispanic Black","$55k - $75k",1,246,25
+21212,"Mexican American","$55k - $75k",1,4,25
+21212,"Other Hispanic","$55k - $75k",1,20,25
+21212,"Other Race - Including Multi-Racial","$55k - $75k",1,12,25
+21212,"Non-Hispanic Asian","More than $75k",1,108,25
+21212,"Non-Hispanic White","More than $75k",1,1222,25
+21212,"Non-Hispanic Black","More than $75k",1,996,25
+21212,"Mexican American","More than $75k",1,18,25
+21212,"Other Hispanic","More than $75k",1,81,25
+21212,"Other Race - Including Multi-Racial","More than $75k",1,50,25
+21212,"Non-Hispanic Asian","Less than $25k",0,97,25
+21212,"Non-Hispanic White","Less than $25k",0,1092,25
+21212,"Non-Hispanic Black","Less than $25k",0,889,25
+21212,"Mexican American","Less than $25k",0,16,25
+21212,"Other Hispanic","Less than $25k",0,72,25
+21212,"Other Race - Including Multi-Racial","Less than $25k",0,45,25
+21212,"Non-Hispanic Asian","$25k - $55k",0,164,25
+21212,"Non-Hispanic White","$25k - $55k",0,1848,25
+21212,"Non-Hispanic Black","$25k - $55k",0,1505,25
+21212,"Mexican American","$25k - $55k",0,27,25
+21212,"Other Hispanic","$25k - $55k",0,122,25
+21212,"Other Race - Including Multi-Racial","$25k - $55k",0,76,25
+21212,"Non-Hispanic Asian","$55k - $75k",0,204,25
+21212,"Non-Hispanic White","$55k - $75k",0,2299,25
+21212,"Non-Hispanic Black","$55k - $75k",0,1873,25
+21212,"Mexican American","$55k - $75k",0,34,25
+21212,"Other Hispanic","$55k - $75k",0,152,25
+21212,"Other Race - Including Multi-Racial","$55k - $75k",0,95,25
+21212,"Non-Hispanic Asian","More than $75k",0,826,25
+21212,"Non-Hispanic White","More than $75k",0,9313,25
+21212,"Non-Hispanic Black","More than $75k",0,7587,25
+21212,"Mexican American","More than $75k",0,137,25
+21212,"Other Hispanic","More than $75k",0,617,25
+21212,"Other Race - Including Multi-Racial","More than $75k",0,383,25
+21213,"Non-Hispanic Asian","Less than $25k",1,7,25
+21213,"Non-Hispanic White","Less than $25k",1,208,25
+21213,"Non-Hispanic Black","Less than $25k",1,2523,25
+21213,"Mexican American","Less than $25k",1,3,25
+21213,"Other Hispanic","Less than $25k",1,44,25
+21213,"Other Race - Including Multi-Racial","Less than $25k",1,66,25
+21213,"Non-Hispanic Asian","$25k - $55k",1,7,25
+21213,"Non-Hispanic White","$25k - $55k",1,195,25
+21213,"Non-Hispanic Black","$25k - $55k",1,2368,25
+21213,"Mexican American","$25k - $55k",1,3,25
+21213,"Other Hispanic","$25k - $55k",1,42,25
+21213,"Other Race - Including Multi-Racial","$25k - $55k",1,62,25
+21213,"Non-Hispanic Asian","$55k - $75k",1,4,25
+21213,"Non-Hispanic White","$55k - $75k",1,128,25
+21213,"Non-Hispanic Black","$55k - $75k",1,1550,25
+21213,"Mexican American","$55k - $75k",1,2,25
+21213,"Other Hispanic","$55k - $75k",1,27,25
+21213,"Other Race - Including Multi-Racial","$55k - $75k",1,41,25
+21213,"Non-Hispanic Asian","More than $75k",1,6,25
+21213,"Non-Hispanic White","More than $75k",1,179,25
+21213,"Non-Hispanic Black","More than $75k",1,2170,25
+21213,"Mexican American","More than $75k",1,2,25
+21213,"Other Hispanic","More than $75k",1,38,25
+21213,"Other Race - Including Multi-Racial","More than $75k",1,57,25
+21213,"Non-Hispanic Asian","Less than $25k",0,16,25
+21213,"Non-Hispanic White","Less than $25k",0,469,25
+21213,"Non-Hispanic Black","Less than $25k",0,5696,25
+21213,"Mexican American","Less than $25k",0,6,25
+21213,"Other Hispanic","Less than $25k",0,100,25
+21213,"Other Race - Including Multi-Racial","Less than $25k",0,149,25
+21213,"Non-Hispanic Asian","$25k - $55k",0,15,25
+21213,"Non-Hispanic White","$25k - $55k",0,441,25
+21213,"Non-Hispanic Black","$25k - $55k",0,5346,25
+21213,"Mexican American","$25k - $55k",0,6,25
+21213,"Other Hispanic","$25k - $55k",0,94,25
+21213,"Other Race - Including Multi-Racial","$25k - $55k",0,140,25
+21213,"Non-Hispanic Asian","$55k - $75k",0,10,25
+21213,"Non-Hispanic White","$55k - $75k",0,288,25
+21213,"Non-Hispanic Black","$55k - $75k",0,3499,25
+21213,"Mexican American","$55k - $75k",0,4,25
+21213,"Other Hispanic","$55k - $75k",0,61,25
+21213,"Other Race - Including Multi-Racial","$55k - $75k",0,92,25
+21213,"Non-Hispanic Asian","More than $75k",0,14,25
+21213,"Non-Hispanic White","More than $75k",0,404,25
+21213,"Non-Hispanic Black","More than $75k",0,4899,25
+21213,"Mexican American","More than $75k",0,5,25
+21213,"Other Hispanic","More than $75k",0,86,25
+21213,"Other Race - Including Multi-Racial","More than $75k",0,129,25
+21214,"Non-Hispanic Asian","Less than $25k",1,1,25
+21214,"Non-Hispanic White","Less than $25k",1,52,25
+21214,"Non-Hispanic Black","Less than $25k",1,78,25
+21214,"Mexican American","Less than $25k",1,1,25
+21214,"Other Hispanic","Less than $25k",1,3,25
+21214,"Other Race - Including Multi-Racial","Less than $25k",1,4,25
+21214,"Non-Hispanic Asian","$25k - $55k",1,3,25
+21214,"Non-Hispanic White","$25k - $55k",1,135,25
+21214,"Non-Hispanic Black","$25k - $55k",1,202,25
+21214,"Mexican American","$25k - $55k",1,2,25
+21214,"Other Hispanic","$25k - $55k",1,8,25
+21214,"Other Race - Including Multi-Racial","$25k - $55k",1,11,25
+21214,"Non-Hispanic Asian","$55k - $75k",1,3,25
+21214,"Non-Hispanic White","$55k - $75k",1,155,25
+21214,"Non-Hispanic Black","$55k - $75k",1,230,25
+21214,"Mexican American","$55k - $75k",1,2,25
+21214,"Other Hispanic","$55k - $75k",1,10,25
+21214,"Other Race - Including Multi-Racial","$55k - $75k",1,13,25
+21214,"Non-Hispanic Asian","More than $75k",1,9,25
+21214,"Non-Hispanic White","More than $75k",1,427,25
+21214,"Non-Hispanic Black","More than $75k",1,636,25
+21214,"Mexican American","More than $75k",1,5,25
+21214,"Other Hispanic","More than $75k",1,27,25
+21214,"Other Race - Including Multi-Racial","More than $75k",1,36,25
+21214,"Non-Hispanic Asian","Less than $25k",0,10,25
+21214,"Non-Hispanic White","Less than $25k",0,487,25
+21214,"Non-Hispanic Black","Less than $25k",0,725,25
+21214,"Mexican American","Less than $25k",0,6,25
+21214,"Other Hispanic","Less than $25k",0,30,25
+21214,"Other Race - Including Multi-Racial","Less than $25k",0,41,25
+21214,"Non-Hispanic Asian","$25k - $55k",0,26,25
+21214,"Non-Hispanic White","$25k - $55k",0,1261,25
+21214,"Non-Hispanic Black","$25k - $55k",0,1879,25
+21214,"Mexican American","$25k - $55k",0,16,25
+21214,"Other Hispanic","$25k - $55k",0,79,25
+21214,"Other Race - Including Multi-Racial","$25k - $55k",0,106,25
+21214,"Non-Hispanic Asian","$55k - $75k",0,29,25
+21214,"Non-Hispanic White","$55k - $75k",0,1440,25
+21214,"Non-Hispanic Black","$55k - $75k",0,2146,25
+21214,"Mexican American","$55k - $75k",0,18,25
+21214,"Other Hispanic","$55k - $75k",0,90,25
+21214,"Other Race - Including Multi-Racial","$55k - $75k",0,121,25
+21214,"Non-Hispanic Asian","More than $75k",0,81,25
+21214,"Non-Hispanic White","More than $75k",0,3976,25
+21214,"Non-Hispanic Black","More than $75k",0,5925,25
+21214,"Mexican American","More than $75k",0,50,25
+21214,"Other Hispanic","More than $75k",0,249,25
+21214,"Other Race - Including Multi-Racial","More than $75k",0,334,25
+21215,"Non-Hispanic Asian","Less than $25k",1,18,25
+21215,"Non-Hispanic White","Less than $25k",1,550,25
+21215,"Non-Hispanic Black","Less than $25k",1,2852,25
+21215,"Mexican American","Less than $25k",1,15,25
+21215,"Other Hispanic","Less than $25k",1,70,25
+21215,"Other Race - Including Multi-Racial","Less than $25k",1,47,25
+21215,"Non-Hispanic Asian","$25k - $55k",1,17,25
+21215,"Non-Hispanic White","$25k - $55k",1,525,25
+21215,"Non-Hispanic Black","$25k - $55k",1,2725,25
+21215,"Mexican American","$25k - $55k",1,14,25
+21215,"Other Hispanic","$25k - $55k",1,67,25
+21215,"Other Race - Including Multi-Racial","$25k - $55k",1,45,25
+21215,"Non-Hispanic Asian","$55k - $75k",1,14,25
+21215,"Non-Hispanic White","$55k - $75k",1,415,25
+21215,"Non-Hispanic Black","$55k - $75k",1,2156,25
+21215,"Mexican American","$55k - $75k",1,11,25
+21215,"Other Hispanic","$55k - $75k",1,53,25
+21215,"Other Race - Including Multi-Racial","$55k - $75k",1,35,25
+21215,"Non-Hispanic Asian","More than $75k",1,24,25
+21215,"Non-Hispanic White","More than $75k",1,744,25
+21215,"Non-Hispanic Black","More than $75k",1,3861,25
+21215,"Mexican American","More than $75k",1,20,25
+21215,"Other Hispanic","More than $75k",1,95,25
+21215,"Other Race - Including Multi-Racial","More than $75k",1,63,25
+21215,"Non-Hispanic Asian","Less than $25k",0,54,25
+21215,"Non-Hispanic White","Less than $25k",0,1675,25
+21215,"Non-Hispanic Black","Less than $25k",0,8695,25
+21215,"Mexican American","Less than $25k",0,45,25
+21215,"Other Hispanic","Less than $25k",0,214,25
+21215,"Other Race - Including Multi-Racial","Less than $25k",0,143,25
+21215,"Non-Hispanic Asian","$25k - $55k",0,52,25
+21215,"Non-Hispanic White","$25k - $55k",0,1600,25
+21215,"Non-Hispanic Black","$25k - $55k",0,8306,25
+21215,"Mexican American","$25k - $55k",0,43,25
+21215,"Other Hispanic","$25k - $55k",0,204,25
+21215,"Other Race - Including Multi-Racial","$25k - $55k",0,137,25
+21215,"Non-Hispanic Asian","$55k - $75k",0,41,25
+21215,"Non-Hispanic White","$55k - $75k",0,1267,25
+21215,"Non-Hispanic Black","$55k - $75k",0,6574,25
+21215,"Mexican American","$55k - $75k",0,34,25
+21215,"Other Hispanic","$55k - $75k",0,162,25
+21215,"Other Race - Including Multi-Racial","$55k - $75k",0,108,25
+21215,"Non-Hispanic Asian","More than $75k",0,74,25
+21215,"Non-Hispanic White","More than $75k",0,2268,25
+21215,"Non-Hispanic Black","More than $75k",0,11770,25
+21215,"Mexican American","More than $75k",0,61,25
+21215,"Other Hispanic","More than $75k",0,289,25
+21215,"Other Race - Including Multi-Racial","More than $75k",0,194,25
+21216,"Non-Hispanic Asian","Less than $25k",1,5,25
+21216,"Non-Hispanic White","Less than $25k",1,30,25
+21216,"Non-Hispanic Black","Less than $25k",1,1786,25
+21216,"Mexican American","Less than $25k",1,5,25
+21216,"Other Hispanic","Less than $25k",1,13,25
+21216,"Other Race - Including Multi-Racial","Less than $25k",1,43,25
+21216,"Non-Hispanic Asian","$25k - $55k",1,6,25
+21216,"Non-Hispanic White","$25k - $55k",1,39,25
+21216,"Non-Hispanic Black","$25k - $55k",1,2313,25
+21216,"Mexican American","$25k - $55k",1,7,25
+21216,"Other Hispanic","$25k - $55k",1,16,25
+21216,"Other Race - Including Multi-Racial","$25k - $55k",1,56,25
+21216,"Non-Hispanic Asian","$55k - $75k",1,4,25
+21216,"Non-Hispanic White","$55k - $75k",1,22,25
+21216,"Non-Hispanic Black","$55k - $75k",1,1305,25
+21216,"Mexican American","$55k - $75k",1,4,25
+21216,"Other Hispanic","$55k - $75k",1,9,25
+21216,"Other Race - Including Multi-Racial","$55k - $75k",1,32,25
+21216,"Non-Hispanic Asian","More than $75k",1,6,25
+21216,"Non-Hispanic White","More than $75k",1,37,25
+21216,"Non-Hispanic Black","More than $75k",1,2229,25
+21216,"Mexican American","More than $75k",1,7,25
+21216,"Other Hispanic","More than $75k",1,16,25
+21216,"Other Race - Including Multi-Racial","More than $75k",1,54,25
+21216,"Non-Hispanic Asian","Less than $25k",0,14,25
+21216,"Non-Hispanic White","Less than $25k",0,87,25
+21216,"Non-Hispanic Black","Less than $25k",0,5190,25
+21216,"Mexican American","Less than $25k",0,15,25
+21216,"Other Hispanic","Less than $25k",0,37,25
+21216,"Other Race - Including Multi-Racial","Less than $25k",0,126,25
+21216,"Non-Hispanic Asian","$25k - $55k",0,18,25
+21216,"Non-Hispanic White","$25k - $55k",0,112,25
+21216,"Non-Hispanic Black","$25k - $55k",0,6721,25
+21216,"Mexican American","$25k - $55k",0,20,25
+21216,"Other Hispanic","$25k - $55k",0,47,25
+21216,"Other Race - Including Multi-Racial","$25k - $55k",0,163,25
+21216,"Non-Hispanic Asian","$55k - $75k",0,10,25
+21216,"Non-Hispanic White","$55k - $75k",0,63,25
+21216,"Non-Hispanic Black","$55k - $75k",0,3793,25
+21216,"Mexican American","$55k - $75k",0,11,25
+21216,"Other Hispanic","$55k - $75k",0,27,25
+21216,"Other Race - Including Multi-Racial","$55k - $75k",0,92,25
+21216,"Non-Hispanic Asian","More than $75k",0,17,25
+21216,"Non-Hispanic White","More than $75k",0,108,25
+21216,"Non-Hispanic Black","More than $75k",0,6477,25
+21216,"Mexican American","More than $75k",0,19,25
+21216,"Other Hispanic","More than $75k",0,46,25
+21216,"Other Race - Including Multi-Racial","More than $75k",0,157,25
+21217,"Non-Hispanic Asian","Less than $25k",1,49,25
+21217,"Non-Hispanic White","Less than $25k",1,413,25
+21217,"Non-Hispanic Black","Less than $25k",1,3543,25
+21217,"Mexican American","Less than $25k",1,8,25
+21217,"Other Hispanic","Less than $25k",1,61,25
+21217,"Other Race - Including Multi-Racial","Less than $25k",1,86,25
+21217,"Non-Hispanic Asian","$25k - $55k",1,29,25
+21217,"Non-Hispanic White","$25k - $55k",1,245,25
+21217,"Non-Hispanic Black","$25k - $55k",1,2098,25
+21217,"Mexican American","$25k - $55k",1,5,25
+21217,"Other Hispanic","$25k - $55k",1,36,25
+21217,"Other Race - Including Multi-Racial","$25k - $55k",1,51,25
+21217,"Non-Hispanic Asian","$55k - $75k",1,27,25
+21217,"Non-Hispanic White","$55k - $75k",1,226,25
+21217,"Non-Hispanic Black","$55k - $75k",1,1940,25
+21217,"Mexican American","$55k - $75k",1,4,25
+21217,"Other Hispanic","$55k - $75k",1,33,25
+21217,"Other Race - Including Multi-Racial","$55k - $75k",1,47,25
+21217,"Non-Hispanic Asian","More than $75k",1,41,25
+21217,"Non-Hispanic White","More than $75k",1,346,25
+21217,"Non-Hispanic Black","More than $75k",1,2963,25
+21217,"Mexican American","More than $75k",1,6,25
+21217,"Other Hispanic","More than $75k",1,51,25
+21217,"Other Race - Including Multi-Racial","More than $75k",1,72,25
+21217,"Non-Hispanic Asian","Less than $25k",0,88,25
+21217,"Non-Hispanic White","Less than $25k",0,738,25
+21217,"Non-Hispanic Black","Less than $25k",0,6326,25
+21217,"Mexican American","Less than $25k",0,14,25
+21217,"Other Hispanic","Less than $25k",0,108,25
+21217,"Other Race - Including Multi-Racial","Less than $25k",0,154,25
+21217,"Non-Hispanic Asian","$25k - $55k",0,52,25
+21217,"Non-Hispanic White","$25k - $55k",0,437,25
+21217,"Non-Hispanic Black","$25k - $55k",0,3746,25
+21217,"Mexican American","$25k - $55k",0,8,25
+21217,"Other Hispanic","$25k - $55k",0,64,25
+21217,"Other Race - Including Multi-Racial","$25k - $55k",0,91,25
+21217,"Non-Hispanic Asian","$55k - $75k",0,48,25
+21217,"Non-Hispanic White","$55k - $75k",0,404,25
+21217,"Non-Hispanic Black","$55k - $75k",0,3464,25
+21217,"Mexican American","$55k - $75k",0,7,25
+21217,"Other Hispanic","$55k - $75k",0,59,25
+21217,"Other Race - Including Multi-Racial","$55k - $75k",0,84,25
+21217,"Non-Hispanic Asian","More than $75k",0,73,25
+21217,"Non-Hispanic White","More than $75k",0,617,25
+21217,"Non-Hispanic Black","More than $75k",0,5291,25
+21217,"Mexican American","More than $75k",0,11,25
+21217,"Other Hispanic","More than $75k",0,91,25
+21217,"Other Race - Including Multi-Racial","More than $75k",0,129,25
+21218,"Non-Hispanic Asian","Less than $25k",1,125,25
+21218,"Non-Hispanic White","Less than $25k",1,626,25
+21218,"Non-Hispanic Black","Less than $25k",1,1451,25
+21218,"Mexican American","Less than $25k",1,18,25
+21218,"Other Hispanic","Less than $25k",1,88,25
+21218,"Other Race - Including Multi-Racial","Less than $25k",1,91,25
+21218,"Non-Hispanic Asian","$25k - $55k",1,138,25
+21218,"Non-Hispanic White","$25k - $55k",1,696,25
+21218,"Non-Hispanic Black","$25k - $55k",1,1612,25
+21218,"Mexican American","$25k - $55k",1,20,25
+21218,"Other Hispanic","$25k - $55k",1,98,25
+21218,"Other Race - Including Multi-Racial","$25k - $55k",1,101,25
+21218,"Non-Hispanic Asian","$55k - $75k",1,87,25
+21218,"Non-Hispanic White","$55k - $75k",1,440,25
+21218,"Non-Hispanic Black","$55k - $75k",1,1019,25
+21218,"Mexican American","$55k - $75k",1,13,25
+21218,"Other Hispanic","$55k - $75k",1,62,25
+21218,"Other Race - Including Multi-Racial","$55k - $75k",1,64,25
+21218,"Non-Hispanic Asian","More than $75k",1,279,25
+21218,"Non-Hispanic White","More than $75k",1,1401,25
+21218,"Non-Hispanic Black","More than $75k",1,3247,25
+21218,"Mexican American","More than $75k",1,41,25
+21218,"Other Hispanic","More than $75k",1,198,25
+21218,"Other Race - Including Multi-Racial","More than $75k",1,204,25
+21218,"Non-Hispanic Asian","Less than $25k",0,382,25
+21218,"Non-Hispanic White","Less than $25k",0,1919,25
+21218,"Non-Hispanic Black","Less than $25k",0,4447,25
+21218,"Mexican American","Less than $25k",0,56,25
+21218,"Other Hispanic","Less than $25k",0,271,25
+21218,"Other Race - Including Multi-Racial","Less than $25k",0,280,25
+21218,"Non-Hispanic Asian","$25k - $55k",0,424,25
+21218,"Non-Hispanic White","$25k - $55k",0,2133,25
+21218,"Non-Hispanic Black","$25k - $55k",0,4942,25
+21218,"Mexican American","$25k - $55k",0,62,25
+21218,"Other Hispanic","$25k - $55k",0,301,25
+21218,"Other Race - Including Multi-Racial","$25k - $55k",0,311,25
+21218,"Non-Hispanic Asian","$55k - $75k",0,268,25
+21218,"Non-Hispanic White","$55k - $75k",0,1348,25
+21218,"Non-Hispanic Black","$55k - $75k",0,3123,25
+21218,"Mexican American","$55k - $75k",0,39,25
+21218,"Other Hispanic","$55k - $75k",0,190,25
+21218,"Other Race - Including Multi-Racial","$55k - $75k",0,196,25
+21218,"Non-Hispanic Asian","More than $75k",0,854,25
+21218,"Non-Hispanic White","More than $75k",0,4295,25
+21218,"Non-Hispanic Black","More than $75k",0,9951,25
+21218,"Mexican American","More than $75k",0,125,25
+21218,"Other Hispanic","More than $75k",0,606,25
+21218,"Other Race - Including Multi-Racial","More than $75k",0,626,25
+21223,"Non-Hispanic Asian","Less than $25k",1,73,25
+21223,"Non-Hispanic White","Less than $25k",1,506,25
+21223,"Non-Hispanic Black","Less than $25k",1,2240,25
+21223,"Mexican American","Less than $25k",1,84,25
+21223,"Other Hispanic","Less than $25k",1,64,25
+21223,"Other Race - Including Multi-Racial","Less than $25k",1,127,25
+21223,"Non-Hispanic Asian","$25k - $55k",1,46,25
+21223,"Non-Hispanic White","$25k - $55k",1,322,25
+21223,"Non-Hispanic Black","$25k - $55k",1,1423,25
+21223,"Mexican American","$25k - $55k",1,53,25
+21223,"Other Hispanic","$25k - $55k",1,40,25
+21223,"Other Race - Including Multi-Racial","$25k - $55k",1,81,25
+21223,"Non-Hispanic Asian","$55k - $75k",1,38,25
+21223,"Non-Hispanic White","$55k - $75k",1,266,25
+21223,"Non-Hispanic Black","$55k - $75k",1,1177,25
+21223,"Mexican American","$55k - $75k",1,44,25
+21223,"Other Hispanic","$55k - $75k",1,33,25
+21223,"Other Race - Including Multi-Racial","$55k - $75k",1,67,25
+21223,"Non-Hispanic Asian","More than $75k",1,38,25
+21223,"Non-Hispanic White","More than $75k",1,263,25
+21223,"Non-Hispanic Black","More than $75k",1,1165,25
+21223,"Mexican American","More than $75k",1,43,25
+21223,"Other Hispanic","More than $75k",1,33,25
+21223,"Other Race - Including Multi-Racial","More than $75k",1,66,25
+21223,"Non-Hispanic Asian","Less than $25k",0,134,25
+21223,"Non-Hispanic White","Less than $25k",0,932,25
+21223,"Non-Hispanic Black","Less than $25k",0,4124,25
+21223,"Mexican American","Less than $25k",0,154,25
+21223,"Other Hispanic","Less than $25k",0,117,25
+21223,"Other Race - Including Multi-Racial","Less than $25k",0,234,25
+21223,"Non-Hispanic Asian","$25k - $55k",0,85,25
+21223,"Non-Hispanic White","$25k - $55k",0,592,25
+21223,"Non-Hispanic Black","$25k - $55k",0,2620,25
+21223,"Mexican American","$25k - $55k",0,98,25
+21223,"Other Hispanic","$25k - $55k",0,74,25
+21223,"Other Race - Including Multi-Racial","$25k - $55k",0,149,25
+21223,"Non-Hispanic Asian","$55k - $75k",0,70,25
+21223,"Non-Hispanic White","$55k - $75k",0,490,25
+21223,"Non-Hispanic Black","$55k - $75k",0,2167,25
+21223,"Mexican American","$55k - $75k",0,81,25
+21223,"Other Hispanic","$55k - $75k",0,61,25
+21223,"Other Race - Including Multi-Racial","$55k - $75k",0,123,25
+21223,"Non-Hispanic Asian","More than $75k",0,70,25
+21223,"Non-Hispanic White","More than $75k",0,484,25
+21223,"Non-Hispanic Black","More than $75k",0,2144,25
+21223,"Mexican American","More than $75k",0,80,25
+21223,"Other Hispanic","More than $75k",0,61,25
+21223,"Other Race - Including Multi-Racial","More than $75k",0,122,25
+21224,"Non-Hispanic Asian","Less than $25k",1,48,25
+21224,"Non-Hispanic White","Less than $25k",1,905,25
+21224,"Non-Hispanic Black","Less than $25k",1,254,25
+21224,"Mexican American","Less than $25k",1,108,25
+21224,"Other Hispanic","Less than $25k",1,198,25
+21224,"Other Race - Including Multi-Racial","Less than $25k",1,66,25
+21224,"Non-Hispanic Asian","$25k - $55k",1,55,25
+21224,"Non-Hispanic White","$25k - $55k",1,1026,25
+21224,"Non-Hispanic Black","$25k - $55k",1,287,25
+21224,"Mexican American","$25k - $55k",1,122,25
+21224,"Other Hispanic","$25k - $55k",1,224,25
+21224,"Other Race - Including Multi-Racial","$25k - $55k",1,75,25
+21224,"Non-Hispanic Asian","$55k - $75k",1,44,25
+21224,"Non-Hispanic White","$55k - $75k",1,822,25
+21224,"Non-Hispanic Black","$55k - $75k",1,230,25
+21224,"Mexican American","$55k - $75k",1,98,25
+21224,"Other Hispanic","$55k - $75k",1,180,25
+21224,"Other Race - Including Multi-Racial","$55k - $75k",1,60,25
+21224,"Non-Hispanic Asian","More than $75k",1,132,25
+21224,"Non-Hispanic White","More than $75k",1,2481,25
+21224,"Non-Hispanic Black","More than $75k",1,695,25
+21224,"Mexican American","More than $75k",1,295,25
+21224,"Other Hispanic","More than $75k",1,542,25
+21224,"Other Race - Including Multi-Racial","More than $75k",1,181,25
+21224,"Non-Hispanic Asian","Less than $25k",0,219,25
+21224,"Non-Hispanic White","Less than $25k",0,4097,25
+21224,"Non-Hispanic Black","Less than $25k",0,1147,25
+21224,"Mexican American","Less than $25k",0,488,25
+21224,"Other Hispanic","Less than $25k",0,895,25
+21224,"Other Race - Including Multi-Racial","Less than $25k",0,299,25
+21224,"Non-Hispanic Asian","$25k - $55k",0,248,25
+21224,"Non-Hispanic White","$25k - $55k",0,4642,25
+21224,"Non-Hispanic Black","$25k - $55k",0,1300,25
+21224,"Mexican American","$25k - $55k",0,553,25
+21224,"Other Hispanic","$25k - $55k",0,1015,25
+21224,"Other Race - Including Multi-Racial","$25k - $55k",0,339,25
+21224,"Non-Hispanic Asian","$55k - $75k",0,198,25
+21224,"Non-Hispanic White","$55k - $75k",0,3718,25
+21224,"Non-Hispanic Black","$55k - $75k",0,1041,25
+21224,"Mexican American","$55k - $75k",0,443,25
+21224,"Other Hispanic","$55k - $75k",0,813,25
+21224,"Other Race - Including Multi-Racial","$55k - $75k",0,272,25
+21224,"Non-Hispanic Asian","More than $75k",0,599,25
+21224,"Non-Hispanic White","More than $75k",0,11226,25
+21224,"Non-Hispanic Black","More than $75k",0,3144,25
+21224,"Mexican American","More than $75k",0,1336,25
+21224,"Other Hispanic","More than $75k",0,2453,25
+21224,"Other Race - Including Multi-Racial","More than $75k",0,820,25
+21229,"Non-Hispanic Asian","Less than $25k",1,52,25
+21229,"Non-Hispanic White","Less than $25k",1,268,25
+21229,"Non-Hispanic Black","Less than $25k",1,1247,25
+21229,"Mexican American","Less than $25k",1,3,25
+21229,"Other Hispanic","Less than $25k",1,34,25
+21229,"Other Race - Including Multi-Racial","Less than $25k",1,50,25
+21229,"Non-Hispanic Asian","$25k - $55k",1,71,25
+21229,"Non-Hispanic White","$25k - $55k",1,366,25
+21229,"Non-Hispanic Black","$25k - $55k",1,1706,25
+21229,"Mexican American","$25k - $55k",1,5,25
+21229,"Other Hispanic","$25k - $55k",1,47,25
+21229,"Other Race - Including Multi-Racial","$25k - $55k",1,69,25
+21229,"Non-Hispanic Asian","$55k - $75k",1,55,25
+21229,"Non-Hispanic White","$55k - $75k",1,286,25
+21229,"Non-Hispanic Black","$55k - $75k",1,1331,25
+21229,"Mexican American","$55k - $75k",1,4,25
+21229,"Other Hispanic","$55k - $75k",1,37,25
+21229,"Other Race - Including Multi-Racial","$55k - $75k",1,54,25
+21229,"Non-Hispanic Asian","More than $75k",1,91,25
+21229,"Non-Hispanic White","More than $75k",1,468,25
+21229,"Non-Hispanic Black","More than $75k",1,2178,25
+21229,"Mexican American","More than $75k",1,6,25
+21229,"Other Hispanic","More than $75k",1,60,25
+21229,"Other Race - Including Multi-Racial","More than $75k",1,88,25
+21229,"Non-Hispanic Asian","Less than $25k",0,237,25
+21229,"Non-Hispanic White","Less than $25k",0,1220,25
+21229,"Non-Hispanic Black","Less than $25k",0,5681,25
+21229,"Mexican American","Less than $25k",0,16,25
+21229,"Other Hispanic","Less than $25k",0,157,25
+21229,"Other Race - Including Multi-Racial","Less than $25k",0,229,25
+21229,"Non-Hispanic Asian","$25k - $55k",0,324,25
+21229,"Non-Hispanic White","$25k - $55k",0,1669,25
+21229,"Non-Hispanic Black","$25k - $55k",0,7772,25
+21229,"Mexican American","$25k - $55k",0,21,25
+21229,"Other Hispanic","$25k - $55k",0,214,25
+21229,"Other Race - Including Multi-Racial","$25k - $55k",0,314,25
+21229,"Non-Hispanic Asian","$55k - $75k",0,253,25
+21229,"Non-Hispanic White","$55k - $75k",0,1302,25
+21229,"Non-Hispanic Black","$55k - $75k",0,6064,25
+21229,"Mexican American","$55k - $75k",0,17,25
+21229,"Other Hispanic","$55k - $75k",0,167,25
+21229,"Other Race - Including Multi-Racial","$55k - $75k",0,245,25
+21229,"Non-Hispanic Asian","More than $75k",0,413,25
+21229,"Non-Hispanic White","More than $75k",0,2131,25
+21229,"Non-Hispanic Black","More than $75k",0,9921,25
+21229,"Mexican American","More than $75k",0,27,25
+21229,"Other Hispanic","More than $75k",0,274,25
+21229,"Other Race - Including Multi-Racial","More than $75k",0,401,25
+21230,"Non-Hispanic Asian","Less than $25k",1,24,25
+21230,"Non-Hispanic White","Less than $25k",1,408,25
+21230,"Non-Hispanic Black","Less than $25k",1,186,25
+21230,"Mexican American","Less than $25k",1,6,25
+21230,"Other Hispanic","Less than $25k",1,41,25
+21230,"Other Race - Including Multi-Racial","Less than $25k",1,19,25
+21230,"Non-Hispanic Asian","$25k - $55k",1,27,25
+21230,"Non-Hispanic White","$25k - $55k",1,473,25
+21230,"Non-Hispanic Black","$25k - $55k",1,216,25
+21230,"Mexican American","$25k - $55k",1,7,25
+21230,"Other Hispanic","$25k - $55k",1,47,25
+21230,"Other Race - Including Multi-Racial","$25k - $55k",1,22,25
+21230,"Non-Hispanic Asian","$55k - $75k",1,23,25
+21230,"Non-Hispanic White","$55k - $75k",1,394,25
+21230,"Non-Hispanic Black","$55k - $75k",1,180,25
+21230,"Mexican American","$55k - $75k",1,6,25
+21230,"Other Hispanic","$55k - $75k",1,40,25
+21230,"Other Race - Including Multi-Racial","$55k - $75k",1,19,25
+21230,"Non-Hispanic Asian","More than $75k",1,95,25
+21230,"Non-Hispanic White","More than $75k",1,1642,25
+21230,"Non-Hispanic Black","More than $75k",1,750,25
+21230,"Mexican American","More than $75k",1,26,25
+21230,"Other Hispanic","More than $75k",1,165,25
+21230,"Other Race - Including Multi-Racial","More than $75k",1,77,25
+21230,"Non-Hispanic Asian","Less than $25k",0,145,25
+21230,"Non-Hispanic White","Less than $25k",0,2508,25
+21230,"Non-Hispanic Black","Less than $25k",0,1145,25
+21230,"Mexican American","Less than $25k",0,39,25
+21230,"Other Hispanic","Less than $25k",0,252,25
+21230,"Other Race - Including Multi-Racial","Less than $25k",0,118,25
+21230,"Non-Hispanic Asian","$25k - $55k",0,168,25
+21230,"Non-Hispanic White","$25k - $55k",0,2902,25
+21230,"Non-Hispanic Black","$25k - $55k",0,1325,25
+21230,"Mexican American","$25k - $55k",0,46,25
+21230,"Other Hispanic","$25k - $55k",0,291,25
+21230,"Other Race - Including Multi-Racial","$25k - $55k",0,136,25
+21230,"Non-Hispanic Asian","$55k - $75k",0,140,25
+21230,"Non-Hispanic White","$55k - $75k",0,2418,25
+21230,"Non-Hispanic Black","$55k - $75k",0,1104,25
+21230,"Mexican American","$55k - $75k",0,38,25
+21230,"Other Hispanic","$55k - $75k",0,243,25
+21230,"Other Race - Including Multi-Racial","$55k - $75k",0,114,25
+21230,"Non-Hispanic Asian","More than $75k",0,584,25
+21230,"Non-Hispanic White","More than $75k",0,10085,25
+21230,"Non-Hispanic Black","More than $75k",0,4605,25
+21230,"Mexican American","More than $75k",0,159,25
+21230,"Other Hispanic","More than $75k",0,1012,25
+21230,"Other Race - Including Multi-Racial","More than $75k",0,474,25
+21231,"Non-Hispanic Asian","Less than $25k",1,34,25
+21231,"Non-Hispanic White","Less than $25k",1,328,25
+21231,"Non-Hispanic Black","Less than $25k",1,184,25
+21231,"Mexican American","Less than $25k",1,30,25
+21231,"Other Hispanic","Less than $25k",1,27,25
+21231,"Other Race - Including Multi-Racial","Less than $25k",1,20,25
+21231,"Non-Hispanic Asian","$25k - $55k",1,21,25
+21231,"Non-Hispanic White","$25k - $55k",1,198,25
+21231,"Non-Hispanic Black","$25k - $55k",1,111,25
+21231,"Mexican American","$25k - $55k",1,18,25
+21231,"Other Hispanic","$25k - $55k",1,16,25
+21231,"Other Race - Including Multi-Racial","$25k - $55k",1,12,25
+21231,"Non-Hispanic Asian","$55k - $75k",1,22,25
+21231,"Non-Hispanic White","$55k - $75k",1,206,25
+21231,"Non-Hispanic Black","$55k - $75k",1,116,25
+21231,"Mexican American","$55k - $75k",1,19,25
+21231,"Other Hispanic","$55k - $75k",1,17,25
+21231,"Other Race - Including Multi-Racial","$55k - $75k",1,13,25
+21231,"Non-Hispanic Asian","More than $75k",1,93,25
+21231,"Non-Hispanic White","More than $75k",1,891,25
+21231,"Non-Hispanic Black","More than $75k",1,500,25
+21231,"Mexican American","More than $75k",1,82,25
+21231,"Other Hispanic","More than $75k",1,73,25
+21231,"Other Race - Including Multi-Racial","More than $75k",1,55,25
+21231,"Non-Hispanic Asian","Less than $25k",0,145,25
+21231,"Non-Hispanic White","Less than $25k",0,1389,25
+21231,"Non-Hispanic Black","Less than $25k",0,780,25
+21231,"Mexican American","Less than $25k",0,128,25
+21231,"Other Hispanic","Less than $25k",0,113,25
+21231,"Other Race - Including Multi-Racial","Less than $25k",0,86,25
+21231,"Non-Hispanic Asian","$25k - $55k",0,88,25
+21231,"Non-Hispanic White","$25k - $55k",0,838,25
+21231,"Non-Hispanic Black","$25k - $55k",0,471,25
+21231,"Mexican American","$25k - $55k",0,77,25
+21231,"Other Hispanic","$25k - $55k",0,68,25
+21231,"Other Race - Including Multi-Racial","$25k - $55k",0,52,25
+21231,"Non-Hispanic Asian","$55k - $75k",0,91,25
+21231,"Non-Hispanic White","$55k - $75k",0,873,25
+21231,"Non-Hispanic Black","$55k - $75k",0,490,25
+21231,"Mexican American","$55k - $75k",0,80,25
+21231,"Other Hispanic","$55k - $75k",0,71,25
+21231,"Other Race - Including Multi-Racial","$55k - $75k",0,54,25
+21231,"Non-Hispanic Asian","More than $75k",0,394,25
+21231,"Non-Hispanic White","More than $75k",0,3773,25
+21231,"Non-Hispanic Black","More than $75k",0,2119,25
+21231,"Mexican American","More than $75k",0,348,25
+21231,"Other Hispanic","More than $75k",0,308,25
+21231,"Other Race - Including Multi-Racial","More than $75k",0,235,25

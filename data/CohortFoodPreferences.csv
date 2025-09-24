@@ -1,0 +1,263 @@
+﻿year,home,Location,Income,Poverty,Race,red_meat_pct,poultry_pct,fish_pct,legumes_nuts_pct,grains_pct,veg_pct,fruits_pct,eggs_pct,dairy_pct,Liquids_pct
+2018,Not at home,SupermarketsStores,$25k - $55k,0,Mexican American,9.302325,4.651163,0,4.651163,20.93023,11.62791,6.976744,0,11.62791,30.23256
+2018,At home,SupermarketsStores,$25k - $55k,0,Mexican American,6.392694,4.56621,2.054795,2.968036,21.46119,19.6347,5.707763,0.913242,9.132421,27.16895
+2018,Not at home,ConvenienceStores,$25k - $55k,0,Mexican American,0,0,0,0,16.66667,33.33333,0,0,0,50
+2018,At home,ConvenienceStores,$25k - $55k,0,Mexican American,0,0,0,0,42.85714,14.28571,0,0,0,42.85714
+2018,Not at home,Restaurant,$25k - $55k,0,Mexican American,8.333333,4.166667,2.083333,4.166667,26.04167,28.125,3.125,2.083333,4.166667,17.70833
+2018,At home,Restaurant,$25k - $55k,0,Mexican American,9.523809,4.761905,0,9.523809,38.09524,33.33333,0,0,0,4.761905
+2018,Not at home,Fastfood,$25k - $55k,0,Mexican American,4.347826,4.347826,0,8.695652,21.73913,21.73913,0,0,0,39.13044
+2018,At home,Fastfood,$25k - $55k,0,Mexican American,7.894737,11.8421,1.315789,2.631579,31.57895,26.31579,1.315789,0,0,17.10526
+2018,Not at home,SupermarketsStores,$55k - $75k,0,Mexican American,0,0,0,0,57.14286,14.28571,0,0,0,28.57143
+2018,At home,SupermarketsStores,$55k - $75k,0,Mexican American,9.23913,2.173913,0,2.717391,25,26.63043,5.434783,0.5434783,7.608696,20.65217
+2018,Not at home,ConvenienceStores,$25k - $55k,0,Non-Hispanic Black,0,0,0,0,100,0,0,0,0,0
+2018,At home,ConvenienceStores,$55k - $75k,0,Mexican American,0,0,20,0,20,0,0,0,0,60
+2018,Not at home,Restaurant,$55k - $75k,0,Mexican American,7.317073,2.439024,2.439024,2.439024,19.5122,34.14634,2.439024,0,7.317073,21.95122
+2018,At home,Restaurant,$55k - $75k,0,Mexican American,8.333333,8.333333,0,0,8.333333,41.66667,0,0,25,8.333333
+2018,Not at home,Fastfood,$55k - $75k,0,Mexican American,4.545455,0,4.545455,0,13.63636,13.63636,0,0,4.545455,59.09091
+2018,At home,Fastfood,$55k - $75k,0,Mexican American,7.407407,7.407407,0,0,25.92593,22.22222,7.407407,0,0,29.62963
+2018,Not at home,SupermarketsStores,Less than $25k,0,Mexican American,15,5,0,0,20,30,0,0,0,30
+2018,At home,SupermarketsStores,Less than $25k,0,Mexican American,6.60066,7.590759,0.660066,1.650165,21.78218,22.44224,7.260726,0,7.590759,24.42244
+2018,Not at home,ConvenienceStores,$25k - $55k,0,Non-Hispanic White,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,Less than $25k,0,Mexican American,0,0,0,0,22.22222,0,0,0,0,77.77778
+2018,Not at home,Restaurant,Less than $25k,0,Mexican American,0,33.33333,0,0,33.33333,11.11111,0,0,0,22.22222
+2018,At home,Restaurant,Less than $25k,0,Mexican American,0,0,0,0,25,75,0,0,0,0
+2018,Not at home,Fastfood,Less than $25k,0,Mexican American,0,0,0,0,75,25,0,0,0,0
+2018,At home,Fastfood,Less than $25k,0,Mexican American,5.357143,7.142857,0,0,42.85714,19.64286,0,0,3.571429,21.42857
+2018,Not at home,SupermarketsStores,More than $75k,0,Mexican American,0,6.060606,3.030303,3.030303,24.24242,21.21212,12.12121,0,3.030303,27.27273
+2018,At home,SupermarketsStores,More than $75k,0,Mexican American,4.472844,6.389776,0.9584665,3.514377,25.5591,21.40575,5.111821,1.916933,7.348243,23.32268
+2018,Not at home,ConvenienceStores,$25k - $55k,0,Other Race - Including Multi-Racial,0,0,14.28571,0,14.28571,28.57143,14.28571,0,0,28.57143
+2018,At home,ConvenienceStores,More than $75k,0,Mexican American,0,0,0,0,16.66667,0,0,0,0,83.33334
+2018,Not at home,Restaurant,More than $75k,0,Mexican American,3.787879,5.30303,5.30303,3.787879,22.72727,23.48485,2.272727,0.7575758,5.30303,27.27273
+2018,At home,Restaurant,More than $75k,0,Mexican American,6.25,6.25,12.5,6.25,50,12.5,6.25,0,0,0
+2018,Not at home,Fastfood,More than $75k,0,Mexican American,5.084746,6.779661,0,3.389831,15.25424,32.20339,1.694915,1.694915,8.474576,25.42373
+2018,At home,Fastfood,More than $75k,0,Mexican American,11.8421,6.578948,5.263158,1.315789,25,19.73684,0,0,5.263158,25
+2018,Not at home,SupermarketsStores,$25k - $55k,0,Non-Hispanic Asian,22.22222,0,0,5.555555,16.66667,27.77778,0,0,0,27.77778
+2018,At home,SupermarketsStores,$25k - $55k,0,Non-Hispanic Asian,6.716418,3.731343,3.358209,7.462687,20.89552,24.25373,10.07463,2.238806,3.358209,17.91045
+2018,At home,ConvenienceStores,$25k - $55k,0,Non-Hispanic Asian,0,0,0,0,0,0,0,0,0,100
+2018,Not at home,Restaurant,$25k - $55k,0,Non-Hispanic Asian,6.153846,6.153846,6.153846,7.692307,26.15385,26.15385,1.538462,1.538462,1.538462,16.92308
+2018,At home,Restaurant,$25k - $55k,0,Non-Hispanic Asian,0,14.28571,14.28571,0,42.85714,0,0,0,7.142857,21.42857
+2018,Not at home,Fastfood,$25k - $55k,0,Non-Hispanic Asian,14.28571,0,21.42857,0,7.142857,21.42857,14.28571,0,7.142857,14.28571
+2018,At home,Fastfood,$25k - $55k,0,Non-Hispanic Asian,9.523809,11.90476,0,0,35.71429,11.90476,0,0,7.142857,23.80952
+2018,Not at home,SupermarketsStores,$55k - $75k,0,Non-Hispanic Asian,8.333333,0,4.166667,8.333333,33.33333,12.5,4.166667,4.166667,0,25
+2018,At home,SupermarketsStores,$55k - $75k,0,Non-Hispanic Asian,7.228916,6.024096,1.204819,4.518072,23.19277,25.60241,10.84337,0.6024097,6.024096,14.75904
+2018,At home,ConvenienceStores,$55k - $75k,0,Non-Hispanic Asian,0,50,0,0,0,0,0,0,0,50
+2018,Not at home,Restaurant,$55k - $75k,0,Non-Hispanic Asian,0,9.090909,4.545455,2.272727,18.18182,31.81818,2.272727,0,11.36364,20.45455
+2018,At home,Restaurant,$55k - $75k,0,Non-Hispanic Asian,33.33333,0,16.66667,0,50,0,0,0,0,0
+2018,Not at home,Fastfood,$55k - $75k,0,Non-Hispanic Asian,8.571428,8.571428,2.857143,0,14.28571,40,0,0,2.857143,22.85714
+2018,At home,Fastfood,$55k - $75k,0,Non-Hispanic Asian,5,20,5,0,40,5,0,0,0,25
+2018,Not at home,SupermarketsStores,Less than $25k,0,Non-Hispanic Asian,0,0,0,0,50,50,0,0,0,0
+2018,At home,SupermarketsStores,Less than $25k,0,Non-Hispanic Asian,10.5,6.5,5,5,20,28,8,2.5,1.5,13
+2018,At home,ConvenienceStores,Less than $25k,0,Non-Hispanic Asian,0,0,0,0,0,0,0,0,50,50
+2018,Not at home,Restaurant,Less than $25k,0,Non-Hispanic Asian,5.882353,5.882353,17.64706,5.882353,35.29412,11.76471,5.882353,0,0,11.76471
+2018,At home,Restaurant,Less than $25k,0,Non-Hispanic Asian,8.333333,0,0,16.66667,33.33333,33.33333,0,0,8.333333,0
+2018,Not at home,Fastfood,Less than $25k,0,Non-Hispanic Asian,10,10,0,0,10,30,0,0,10,30
+2018,At home,Fastfood,Less than $25k,0,Non-Hispanic Asian,14.28571,28.57143,0,0,42.85714,14.28571,0,0,0,0
+2018,Not at home,SupermarketsStores,More than $75k,0,Non-Hispanic Asian,7.526882,1.075269,7.526882,2.150538,24.73118,23.65591,12.90323,0,5.376344,15.05376
+2018,At home,SupermarketsStores,More than $75k,0,Non-Hispanic Asian,4.572907,3.710095,4.05522,7.333909,23.29594,26.40207,7.506471,1.984469,7.161346,13.97757
+2018,Not at home,ConvenienceStores,$55k - $75k,0,Mexican American,25,0,0,0,25,0,0,0,0,50
+2018,At home,ConvenienceStores,More than $75k,0,Non-Hispanic Asian,0,0,11.76471,5.882353,17.64706,11.76471,5.882353,0,5.882353,41.17647
+2018,Not at home,Restaurant,More than $75k,0,Non-Hispanic Asian,4.761905,4.761905,6.060606,3.896104,21.64502,35.49784,0.8658009,0,3.896104,18.61472
+2018,At home,Restaurant,More than $75k,0,Non-Hispanic Asian,10.38961,22.07792,6.493506,6.493506,23.37662,15.58442,0,2.597403,2.597403,10.38961
+2018,Not at home,Fastfood,More than $75k,0,Non-Hispanic Asian,3.947368,21.05263,1.315789,1.315789,31.57895,23.68421,1.315789,0,0,15.78947
+2018,At home,Fastfood,More than $75k,0,Non-Hispanic Asian,4.347826,11.95652,6.521739,4.347826,23.91304,21.73913,2.173913,0,4.347826,20.65217
+2018,Not at home,SupermarketsStores,$25k - $55k,0,Non-Hispanic Black,7.575758,4.545455,4.545455,1.515152,15.15152,22.72727,10.60606,0,1.515152,31.81818
+2018,At home,SupermarketsStores,$25k - $55k,0,Non-Hispanic Black,7.737397,5.392732,4.220398,1.524033,19.46073,24.73623,5.627198,0.7033998,5.744431,24.85346
+2018,Not at home,ConvenienceStores,$55k - $75k,0,Non-Hispanic Black,0,0,0,0,0,25,0,0,25,50
+2018,At home,ConvenienceStores,$25k - $55k,0,Non-Hispanic Black,0,2.325581,0,0,18.60465,2.325581,4.651163,0,6.976744,65.11628
+2018,Not at home,Restaurant,$25k - $55k,0,Non-Hispanic Black,6.617647,9.558824,3.676471,0.7352941,13.23529,31.61765,0,0.7352941,3.676471,30.14706
+2018,At home,Restaurant,$25k - $55k,0,Non-Hispanic Black,8.333333,8.333333,5,1.666667,16.66667,33.33333,0,0,3.333333,23.33333
+2018,Not at home,Fastfood,$25k - $55k,0,Non-Hispanic Black,5.050505,6.060606,4.040404,2.020202,27.27273,17.17172,1.010101,0,3.030303,34.34343
+2018,At home,Fastfood,$25k - $55k,0,Non-Hispanic Black,5.714286,15.71429,0,0.4761905,20.47619,27.61905,1.428571,0,2.857143,25.71428
+2018,Not at home,SupermarketsStores,$55k - $75k,0,Non-Hispanic Black,0,11.11111,0,0,33.33333,5.555555,0,0,5.555555,44.44444
+2018,At home,SupermarketsStores,$55k - $75k,0,Non-Hispanic Black,7.8125,7.03125,3.385417,2.083333,19.79167,25,4.427083,0.2604167,6.25,23.95833
+2018,Not at home,ConvenienceStores,$55k - $75k,0,Non-Hispanic White,0,0,0,0,22.22222,0,11.11111,0,11.11111,55.55556
+2018,At home,ConvenienceStores,$55k - $75k,0,Non-Hispanic Black,0,0,0,0,0,0,0,0,0,100
+2018,Not at home,Restaurant,$55k - $75k,0,Non-Hispanic Black,6.17284,3.703704,8.641975,0,17.28395,30.8642,1.234568,1.234568,3.703704,27.16049
+2018,At home,Restaurant,$55k - $75k,0,Non-Hispanic Black,8.695652,13.04348,0,4.347826,21.73913,26.08696,0,0,4.347826,21.73913
+2018,Not at home,Fastfood,$55k - $75k,0,Non-Hispanic Black,8.196721,14.7541,3.278688,0,13.11475,29.5082,1.639344,0,6.557377,22.95082
+2018,At home,Fastfood,$55k - $75k,0,Non-Hispanic Black,6.818182,22.72727,2.272727,4.545455,29.54545,15.90909,0,2.272727,4.545455,11.36364
+2018,Not at home,SupermarketsStores,Less than $25k,0,Non-Hispanic Black,8,8,0,0,20,32,4,0,4,24
+2018,At home,SupermarketsStores,Less than $25k,0,Non-Hispanic Black,8.716707,8.111381,2.542373,0.8474576,22.51816,24.93947,5.690073,0.6053269,4.358354,21.6707
+2018,Not at home,ConvenienceStores,$55k - $75k,0,Other Hispanic,0,14.28571,0,0,0,14.28571,0,0,0,71.42857
+2018,At home,ConvenienceStores,Less than $25k,0,Non-Hispanic Black,4.166667,2.083333,0,0,12.5,6.25,0,0,6.25,68.75
+2018,Not at home,Restaurant,Less than $25k,0,Non-Hispanic Black,4.761905,7.936508,3.174603,1.587302,17.46032,23.80952,1.587302,0,9.523809,30.15873
+2018,At home,Restaurant,Less than $25k,0,Non-Hispanic Black,5.714286,20,8.571428,2.857143,22.85714,28.57143,0,2.857143,2.857143,5.714286
+2018,Not at home,Fastfood,Less than $25k,0,Non-Hispanic Black,7.042253,5.633803,1.408451,2.816901,21.12676,28.16901,4.225352,0,4.225352,25.35211
+2018,At home,Fastfood,Less than $25k,0,Non-Hispanic Black,7.441861,15.81395,1.860465,1.395349,16.27907,27.44186,3.255814,0,3.72093,22.7907
+2018,Not at home,SupermarketsStores,More than $75k,0,Non-Hispanic Black,7.462687,10.44776,0,0,19.40298,19.40298,10.44776,0,4.477612,28.35821
+2018,At home,SupermarketsStores,More than $75k,0,Non-Hispanic Black,5.409357,7.602339,2.777778,2.48538,16.66667,27.19298,4.093567,0.4385965,4.97076,28.36257
+2018,Not at home,ConvenienceStores,$55k - $75k,0,Other Race - Including Multi-Racial,0,6.666667,0,0,13.33333,6.666667,6.666667,0,0,66.66666
+2018,At home,ConvenienceStores,More than $75k,0,Non-Hispanic Black,3.846154,3.846154,3.846154,3.846154,11.53846,7.692307,3.846154,0,3.846154,57.69231
+2018,Not at home,Restaurant,More than $75k,0,Non-Hispanic Black,4.907976,2.453988,6.134969,0.613497,18.40491,31.90184,3.067485,0,4.907976,27.60736
+2018,At home,Restaurant,More than $75k,0,Non-Hispanic Black,5.633803,14.08451,1.408451,5.633803,32.39437,23.94366,0,0,1.408451,15.49296
+2018,Not at home,Fastfood,More than $75k,0,Non-Hispanic Black,7.070707,9.090909,2.020202,3.030303,10.10101,33.33333,3.030303,0,4.040404,28.28283
+2018,At home,Fastfood,More than $75k,0,Non-Hispanic Black,5.970149,14.42786,1.492537,0.4975124,21.89055,24.37811,1.492537,0,3.482587,26.36816
+2018,Not at home,SupermarketsStores,$25k - $55k,0,Non-Hispanic White,7.826087,1.73913,0.8695652,0,23.47826,20.86957,8.695652,1.73913,9.565217,25.21739
+2018,At home,SupermarketsStores,$25k - $55k,0,Non-Hispanic White,10.4908,4.846626,1.042945,2.883435,17.60736,26.50307,4.601227,0.9202454,10.42945,20.67485
+2018,Not at home,ConvenienceStores,Less than $25k,0,Mexican American,0,0,0,0,0,0,0,0,25,75
+2018,At home,ConvenienceStores,$25k - $55k,0,Non-Hispanic White,2.272727,2.272727,0,0,27.27273,11.36364,0,0,9.090909,47.72727
+2018,Not at home,Restaurant,$25k - $55k,0,Non-Hispanic White,8.024692,4.62963,6.790123,1.54321,15.12346,31.79012,2.160494,0.6172839,6.790123,22.53086
+2018,At home,Restaurant,$25k - $55k,0,Non-Hispanic White,2.439024,7.317073,2.439024,0,34.14634,31.70732,0,0,9.756098,12.19512
+2018,Not at home,Fastfood,$25k - $55k,0,Non-Hispanic White,10.28037,4.672897,0,1.869159,21.49533,26.16822,3.738318,0,10.28037,21.49533
+2018,At home,Fastfood,$25k - $55k,0,Non-Hispanic White,12.56281,11.55779,1.507538,2.512563,21.10553,23.11558,0.5025126,0,4.020101,23.11558
+2018,Not at home,SupermarketsStores,$55k - $75k,0,Non-Hispanic White,12.06897,10.34483,0,1.724138,13.7931,22.41379,17.24138,0,12.06897,10.34483
+2018,At home,SupermarketsStores,$55k - $75k,0,Non-Hispanic White,10.56911,3.523035,1.084011,2.98103,19.10569,25.74526,3.929539,1.490515,10.4336,21.13821
+2018,Not at home,ConvenienceStores,Less than $25k,0,Non-Hispanic Black,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,$55k - $75k,0,Non-Hispanic White,0,0,0,0,7.692307,0,7.692307,0,7.692307,76.92308
+2018,Not at home,Restaurant,$55k - $75k,0,Non-Hispanic White,4.666667,5.333333,6,2,18.66667,30,6,1.333333,2,24
+2018,At home,Restaurant,$55k - $75k,0,Non-Hispanic White,5.714286,8.571428,0,0,28.57143,28.57143,0,2.857143,11.42857,14.28571
+2018,Not at home,Fastfood,$55k - $75k,0,Non-Hispanic White,6.481482,7.407407,0,4.62963,20.37037,30.55556,1.851852,0,1.851852,26.85185
+2018,At home,Fastfood,$55k - $75k,0,Non-Hispanic White,15.94203,5.797101,1.449275,2.898551,14.49275,26.08696,2.898551,1.449275,4.347826,24.63768
+2018,Not at home,SupermarketsStores,Less than $25k,0,Non-Hispanic White,5.263158,7.894737,0,0,21.05263,26.31579,2.631579,0,10.52632,26.31579
+2018,At home,SupermarketsStores,Less than $25k,0,Non-Hispanic White,10.71429,5.598455,0.7722008,2.606178,19.88417,20.27027,4.150579,0.7722008,10.13513,25.09653
+2018,Not at home,ConvenienceStores,Less than $25k,0,Non-Hispanic White,0,0,0,0,33.33333,0,0,0,33.33333,33.33333
+2018,At home,ConvenienceStores,Less than $25k,0,Non-Hispanic White,7.407407,0,0,0,9.259259,11.11111,5.555555,0,5.555555,61.11111
+2018,Not at home,Restaurant,Less than $25k,0,Non-Hispanic White,4.672897,3.738318,3.738318,2.803738,19.62617,35.51402,3.738318,0,6.542056,19.62617
+2018,At home,Restaurant,Less than $25k,0,Non-Hispanic White,0,3.448276,13.7931,3.448276,34.48276,24.13793,0,0,10.34483,10.34483
+2018,Not at home,Fastfood,Less than $25k,0,Non-Hispanic White,15.78947,5.263158,0,2.105263,11.57895,30.52632,0,0,3.157895,31.57895
+2018,At home,Fastfood,Less than $25k,0,Non-Hispanic White,10.71429,10.71429,1.428571,2.142857,22.14286,26.42857,2.142857,0,5,19.28572
+2018,Not at home,SupermarketsStores,More than $75k,0,Non-Hispanic White,9.722222,2.777778,0.6944444,2.777778,16.66667,25.69444,12.5,0,9.027778,20.13889
+2018,At home,SupermarketsStores,More than $75k,0,Non-Hispanic White,9.109624,5.558415,2.264539,1.904272,16.88111,26.71127,5.712815,0.5661349,10.80803,20.48379
+2018,Not at home,ConvenienceStores,Less than $25k,0,Other Race - Including Multi-Racial,10,0,0,0,20,0,0,10,0,60
+2018,At home,ConvenienceStores,More than $75k,0,Non-Hispanic White,2.173913,4.347826,0,2.173913,10.86957,15.21739,2.173913,0,4.347826,58.69565
+2018,Not at home,Restaurant,More than $75k,0,Non-Hispanic White,6.602254,3.864734,3.703704,2.415459,18.84058,30.59581,2.415459,0.9661836,8.534621,22.06119
+2018,At home,Restaurant,More than $75k,0,Non-Hispanic White,8.064516,5.645161,4.032258,8.064516,31.45161,33.06452,0.8064516,0,4.83871,4.032258
+2018,Not at home,Fastfood,More than $75k,0,Non-Hispanic White,8.83721,10.23256,0,0.9302326,14.88372,24.18605,2.790698,0,8.83721,29.30233
+2018,At home,Fastfood,More than $75k,0,Non-Hispanic White,5.62249,11.24498,0.8032129,1.606426,26.90763,26.10442,2.008032,0.8032129,3.212852,21.68675
+2018,Not at home,SupermarketsStores,$25k - $55k,0,Other Hispanic,0,0,0,18.18182,18.18182,18.18182,9.090909,0,18.18182,18.18182
+2018,At home,SupermarketsStores,$25k - $55k,0,Other Hispanic,2.824859,7.344633,2.259887,2.824859,19.77401,19.20904,2.259887,1.694915,11.86441,29.9435
+2018,At home,ConvenienceStores,$25k - $55k,0,Other Hispanic,0,0,0,0,50,0,0,0,0,50
+2018,Not at home,Restaurant,$25k - $55k,0,Other Hispanic,8.108109,2.702703,2.702703,5.405406,16.21622,27.02703,0,0,5.405406,32.43243
+2018,At home,Restaurant,$25k - $55k,0,Other Hispanic,33.33333,0,0,0,16.66667,33.33333,0,0,0,16.66667
+2018,Not at home,Fastfood,$25k - $55k,0,Other Hispanic,10.34483,6.896552,0,0,13.7931,20.68966,3.448276,0,6.896552,37.93103
+2018,At home,Fastfood,$25k - $55k,0,Other Hispanic,12,24,0,0,12,36,0,0,0,16
+2018,Not at home,SupermarketsStores,$55k - $75k,0,Other Hispanic,0,0,0,0,0,0,0,0,0,100
+2018,At home,SupermarketsStores,$55k - $75k,0,Other Hispanic,8.536586,6.097561,3.658537,6.097561,13.41463,30.4878,9.756098,0,2.439024,19.5122
+2018,Not at home,ConvenienceStores,More than $75k,0,Mexican American,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,$55k - $75k,0,Other Hispanic,0,0,0,0,0,0,0,0,0,100
+2018,Not at home,Restaurant,$55k - $75k,0,Other Hispanic,0,3.448276,0,13.7931,6.896552,44.82759,10.34483,0,6.896552,13.7931
+2018,At home,Restaurant,$55k - $75k,0,Other Hispanic,0,0,0,0,33.33333,33.33333,0,0,0,33.33333
+2018,Not at home,Fastfood,$55k - $75k,0,Other Hispanic,6.25,0,0,0,31.25,31.25,0,0,0,31.25
+2018,At home,Fastfood,$55k - $75k,0,Other Hispanic,8.695652,13.04348,0,0,17.3913,21.73913,0,0,4.347826,34.78261
+2018,Not at home,SupermarketsStores,Less than $25k,0,Other Hispanic,18.18182,0,0,0,36.36364,0,0,9.090909,0,36.36364
+2018,At home,SupermarketsStores,Less than $25k,0,Other Hispanic,7.438016,2.479339,0.8264463,4.958678,19.83471,27.27273,4.132231,1.652893,5.785124,25.61983
+2018,At home,ConvenienceStores,Less than $25k,0,Other Hispanic,0,0,0,0,0,0,0,0,0,100
+2018,Not at home,Restaurant,Less than $25k,0,Other Hispanic,0,0,0,0,0,60,0,0,20,20
+2018,Not at home,Fastfood,Less than $25k,0,Other Hispanic,19.35484,0,0,0,3.225806,32.25806,0,0,3.225806,41.93548
+2018,At home,Fastfood,Less than $25k,0,Other Hispanic,6.666667,20,0,0,20,26.66667,0,0,6.666667,20
+2018,Not at home,SupermarketsStores,More than $75k,0,Other Hispanic,13.04348,4.347826,0,13.04348,13.04348,8.695652,4.347826,0,4.347826,39.13044
+2018,At home,SupermarketsStores,More than $75k,0,Other Hispanic,7.086614,7.086614,1.968504,5.905512,23.62205,24.40945,4.72441,0,5.905512,19.29134
+2018,Not at home,ConvenienceStores,More than $75k,0,Non-Hispanic Asian,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,More than $75k,0,Other Hispanic,0,0,0,0,25,0,12.5,0,12.5,50
+2018,Not at home,Restaurant,More than $75k,0,Other Hispanic,8.045977,5.747127,1.149425,3.448276,26.43678,31.03448,2.298851,0,3.448276,18.3908
+2018,At home,Restaurant,More than $75k,0,Other Hispanic,12.5,9.375,3.125,0,25,28.125,3.125,0,6.25,12.5
+2018,Not at home,Fastfood,More than $75k,0,Other Hispanic,5.882353,5.882353,5.882353,0,29.41176,23.52941,0,0,0,29.41176
+2018,At home,Fastfood,More than $75k,0,Other Hispanic,0,7.407407,1.234568,6.17284,51.85185,13.58025,0,0,6.17284,13.58025
+2018,Not at home,SupermarketsStores,$25k - $55k,0,Other Race - Including Multi-Racial,11.53846,19.23077,0,0,34.61538,0,11.53846,0,3.846154,19.23077
+2018,At home,SupermarketsStores,$25k - $55k,0,Other Race - Including Multi-Racial,9.787234,5.957447,3.404255,2.12766,21.2766,26.38298,5.531915,0.4255319,10.6383,14.46809
+2018,Not at home,ConvenienceStores,More than $75k,0,Non-Hispanic Black,0,0,0,0,0,33.33333,0,0,0,66.66666
+2018,At home,ConvenienceStores,$25k - $55k,0,Other Race - Including Multi-Racial,0,0,0,0,9.090909,9.090909,18.18182,0,0,63.63636
+2018,Not at home,Restaurant,$25k - $55k,0,Other Race - Including Multi-Racial,16.66667,0,11.11111,0,11.11111,27.77778,5.555555,0,0,27.77778
+2018,At home,Restaurant,$25k - $55k,0,Other Race - Including Multi-Racial,0,16.66667,16.66667,0,66.66666,0,0,0,0,0
+2018,Not at home,Fastfood,$25k - $55k,0,Other Race - Including Multi-Racial,12.5,12.5,0,0,6.25,37.5,0,0,0,31.25
+2018,At home,Fastfood,$25k - $55k,0,Other Race - Including Multi-Racial,5.970149,20.89552,0,0,10.44776,29.85075,0,0,2.985075,29.85075
+2018,Not at home,SupermarketsStores,$55k - $75k,0,Other Race - Including Multi-Racial,12.90323,0,0,0,32.25806,19.35484,9.67742,0,6.451613,19.35484
+2018,At home,SupermarketsStores,$55k - $75k,0,Other Race - Including Multi-Racial,15.33333,6.666667,1.333333,0.6666667,14,21.33333,6.666667,0.6666667,5.333333,28
+2018,Not at home,ConvenienceStores,More than $75k,0,Non-Hispanic White,0,0,0,50,0,0,0,0,0,50
+2018,At home,ConvenienceStores,$55k - $75k,0,Other Race - Including Multi-Racial,0,0,0,0,66.66666,0,0,0,0,33.33333
+2018,Not at home,Restaurant,$55k - $75k,0,Other Race - Including Multi-Racial,11.62791,6.976744,2.325581,2.325581,4.651163,34.88372,2.325581,0,9.302325,25.5814
+2018,At home,Restaurant,$55k - $75k,0,Other Race - Including Multi-Racial,20,40,0,0,20,20,0,0,0,0
+2018,Not at home,Fastfood,$55k - $75k,0,Other Race - Including Multi-Racial,0,16.66667,0,0,16.66667,25,0,8.333333,8.333333,25
+2018,At home,Fastfood,$55k - $75k,0,Other Race - Including Multi-Racial,19.04762,14.28571,0,0,33.33333,9.523809,0,0,4.761905,19.04762
+2018,Not at home,SupermarketsStores,Less than $25k,0,Other Race - Including Multi-Racial,12.5,12.5,0,12.5,25,25,0,0,0,12.5
+2018,At home,SupermarketsStores,Less than $25k,0,Other Race - Including Multi-Racial,10.40462,5.780347,3.468208,2.890173,22.54335,23.12139,2.890173,1.156069,6.358381,21.38728
+2018,Not at home,ConvenienceStores,More than $75k,0,Other Hispanic,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,Less than $25k,0,Other Race - Including Multi-Racial,0,0,0,0,0,0,0,0,0,100
+2018,Not at home,Restaurant,Less than $25k,0,Other Race - Including Multi-Racial,0,20,0,20,20,40,0,0,0,0
+2018,Not at home,Fastfood,Less than $25k,0,Other Race - Including Multi-Racial,9.523809,14.28571,0,4.761905,19.04762,28.57143,4.761905,0,9.523809,9.523809
+2018,At home,Fastfood,Less than $25k,0,Other Race - Including Multi-Racial,16.66667,8.333333,0,0,16.66667,37.5,0,0,8.333333,12.5
+2018,Not at home,SupermarketsStores,More than $75k,0,Other Race - Including Multi-Racial,6.521739,4.347826,4.347826,2.173913,23.91304,13.04348,19.56522,0,13.04348,13.04348
+2018,At home,SupermarketsStores,More than $75k,0,Other Race - Including Multi-Racial,7.017544,7.602339,2.339181,2.631579,22.22222,23.97661,6.140351,1.461988,13.45029,13.1579
+2018,Not at home,ConvenienceStores,More than $75k,0,Other Race - Including Multi-Racial,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,More than $75k,0,Other Race - Including Multi-Racial,0,0,0,0,0,0,50,0,0,50
+2018,Not at home,Restaurant,More than $75k,0,Other Race - Including Multi-Racial,3,4,8,3,24,31,6,1,4,16
+2018,At home,Restaurant,More than $75k,0,Other Race - Including Multi-Racial,16.66667,0,0,0,66.66666,0,0,0,0,16.66667
+2018,Not at home,Fastfood,More than $75k,0,Other Race - Including Multi-Racial,4.444445,8.888889,0,2.222222,8.888889,33.33333,6.666667,0,6.666667,28.88889
+2018,At home,Fastfood,More than $75k,0,Other Race - Including Multi-Racial,3.225806,25.80645,0,3.225806,38.70968,6.451613,6.451613,0,0,16.12903
+2018,Not at home,SupermarketsStores,$25k - $55k,1,Mexican American,0,0,0,0,18.18182,18.18182,0,0,9.090909,54.54546
+2018,At home,SupermarketsStores,$25k - $55k,1,Mexican American,12.5,0,0,1.25,27.5,12.5,5,6.25,8.75,26.25
+2018,At home,ConvenienceStores,$25k - $55k,1,Mexican American,0,0,0,33.33333,0,0,33.33333,0,0,33.33333
+2018,Not at home,Restaurant,$25k - $55k,1,Mexican American,14.28571,0,0,0,28.57143,28.57143,0,0,0,28.57143
+2018,At home,Restaurant,$25k - $55k,1,Mexican American,100,0,0,0,0,0,0,0,0,0
+2018,Not at home,Fastfood,$25k - $55k,1,Mexican American,0,0,0,0,28.57143,42.85714,28.57143,0,0,0
+2018,At home,Fastfood,$25k - $55k,1,Mexican American,15.38461,7.692307,0,0,30.76923,7.692307,0,0,0,38.46154
+2018,At home,SupermarketsStores,Less than $25k,1,Mexican American,4.761905,2.380952,0,2.380952,28.57143,19.04762,0,7.142857,2.380952,33.33333
+2018,At home,ConvenienceStores,Less than $25k,1,Mexican American,0,0,0,0,0,0,0,0,0,100
+2018,Not at home,Restaurant,Less than $25k,1,Mexican American,4.761905,4.761905,0,0,19.04762,23.80952,9.523809,4.761905,9.523809,23.80952
+2018,At home,Fastfood,Less than $25k,1,Mexican American,25,0,0,0,12.5,37.5,0,0,0,25
+2018,Not at home,SupermarketsStores,$25k - $55k,1,Non-Hispanic Asian,0,33.33333,0,0,11.11111,33.33333,0,0,0,22.22222
+2018,At home,SupermarketsStores,$25k - $55k,1,Non-Hispanic Asian,2.564103,8.974359,2.564103,2.564103,23.07692,17.94872,5.128205,1.282051,8.974359,26.92308
+2018,Not at home,ConvenienceStores,$25k - $55k,1,Non-Hispanic Asian,0,0,0,0,50,0,0,0,0,50
+2018,Not at home,Restaurant,$25k - $55k,1,Non-Hispanic Asian,0,14.28571,0,0,19.04762,33.33333,0,0,9.523809,23.80952
+2018,At home,Restaurant,$25k - $55k,1,Non-Hispanic Asian,0,0,0,0,0,0,0,0,16.66667,83.33334
+2018,Not at home,Fastfood,$25k - $55k,1,Non-Hispanic Asian,0,0,16.66667,0,0,33.33333,0,0,0,50
+2018,At home,Fastfood,$25k - $55k,1,Non-Hispanic Asian,0,0,0,0,60,20,0,0,0,20
+2018,At home,SupermarketsStores,Less than $25k,1,Non-Hispanic Asian,5.714286,5.714286,1.428571,10,25.71428,30,4.285714,4.285714,1.428571,11.42857
+2018,At home,ConvenienceStores,Less than $25k,1,Non-Hispanic Asian,0,0,0,0,0,0,66.66666,0,33.33333,0
+2018,At home,Restaurant,Less than $25k,1,Non-Hispanic Asian,0,50,0,0,50,0,0,0,0,0
+2018,Not at home,Fastfood,Less than $25k,1,Non-Hispanic Asian,25,0,0,0,0,0,0,0,25,50
+2018,At home,Fastfood,Less than $25k,1,Non-Hispanic Asian,25,0,0,0,0,50,25,0,0,0
+2018,Not at home,SupermarketsStores,$25k - $55k,1,Non-Hispanic Black,4.545455,4.545455,4.545455,0,27.27273,22.72727,0,0,4.545455,31.81818
+2018,At home,SupermarketsStores,$25k - $55k,1,Non-Hispanic Black,6.701031,5.670103,2.57732,0,25.25773,18.5567,4.639175,1.030928,9.278351,26.28866
+2018,Not at home,ConvenienceStores,$25k - $55k,1,Non-Hispanic Black,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,$25k - $55k,1,Non-Hispanic Black,0,5,0,0,25,5,0,0,5,60
+2018,Not at home,Restaurant,$25k - $55k,1,Non-Hispanic Black,0,8.333333,16.66667,0,16.66667,33.33333,0,0,8.333333,16.66667
+2018,At home,Restaurant,$25k - $55k,1,Non-Hispanic Black,0,28.57143,28.57143,0,14.28571,14.28571,0,0,14.28571,0
+2018,Not at home,Fastfood,$25k - $55k,1,Non-Hispanic Black,12.72727,7.272727,3.636364,0,14.54545,32.72727,1.818182,1.818182,3.636364,21.81818
+2018,At home,Fastfood,$25k - $55k,1,Non-Hispanic Black,5.633803,9.859155,1.408451,1.408451,29.57747,23.94366,0,0,4.225352,23.94366
+2018,Not at home,SupermarketsStores,Less than $25k,1,Non-Hispanic Black,3.703704,3.703704,0,3.703704,18.51852,29.62963,11.11111,3.703704,0,25.92593
+2018,At home,SupermarketsStores,Less than $25k,1,Non-Hispanic Black,7.25552,6.940063,3.785489,3.470031,15.77287,25.86751,5.993691,0.9463722,4.100946,25.86751
+2016,Not at home,Store - convenience type,$25k - $55k,1,Mexican American,0,0,0,0,0,0,16.66667,0,0,83.33334
+2018,At home,ConvenienceStores,Less than $25k,1,Non-Hispanic Black,0,7.692307,0,0,11.53846,7.692307,3.846154,0,0,69.23077
+2018,Not at home,Restaurant,Less than $25k,1,Non-Hispanic Black,5.263158,5.263158,21.05263,0,10.52632,21.05263,5.263158,0,21.05263,10.52632
+2018,At home,Restaurant,Less than $25k,1,Non-Hispanic Black,0,40,0,20,20,20,0,0,0,0
+2018,Not at home,Fastfood,Less than $25k,1,Non-Hispanic Black,4.166667,12.5,8.333333,0,20.83333,20.83333,0,0,4.166667,29.16667
+2018,At home,Fastfood,Less than $25k,1,Non-Hispanic Black,5.555555,16.66667,3.703704,0,27.77778,20.37037,0,0,3.703704,22.22222
+2018,Not at home,SupermarketsStores,$25k - $55k,1,Non-Hispanic White,5.405406,0,0,0,24.32432,18.91892,0,0,16.21622,35.13514
+2018,At home,SupermarketsStores,$25k - $55k,1,Non-Hispanic White,9.130435,2.608696,0.8695652,0.8695652,21.30435,24.78261,4.782609,1.304348,12.6087,21.73913
+2018,At home,ConvenienceStores,$25k - $55k,1,Non-Hispanic White,6.25,6.25,0,6.25,12.5,0,0,6.25,12.5,50
+2018,Not at home,Restaurant,$25k - $55k,1,Non-Hispanic White,0,0,11.11111,0,11.11111,11.11111,0,0,11.11111,55.55556
+2018,At home,Restaurant,$25k - $55k,1,Non-Hispanic White,6.666667,13.33333,0,0,6.666667,20,0,0,6.666667,46.66667
+2018,Not at home,Fastfood,$25k - $55k,1,Non-Hispanic White,10.52632,5.263158,0,0,21.05263,15.78947,0,0,15.78947,31.57895
+2018,At home,Fastfood,$25k - $55k,1,Non-Hispanic White,12.12121,12.12121,3.030303,0,42.42424,9.090909,0,0,6.060606,15.15152
+2018,Not at home,SupermarketsStores,Less than $25k,1,Non-Hispanic White,20,0,0,0,0,20,0,0,0,60
+2018,At home,SupermarketsStores,Less than $25k,1,Non-Hispanic White,8.841463,3.963415,0.9146342,2.743902,17.9878,26.52439,3.04878,0.9146342,14.02439,21.03658
+2018,Not at home,ConvenienceStores,Less than $25k,1,Non-Hispanic Black,0,0,0,0,0,0,0,0,0,100
+2018,At home,ConvenienceStores,Less than $25k,1,Non-Hispanic White,0,9.090909,0,0,18.18182,27.27273,0,0,0,45.45454
+2018,Not at home,Restaurant,Less than $25k,1,Non-Hispanic White,5.333333,6.666667,1.333333,5.333333,18.66667,33.33333,2.666667,0,8,18.66667
+2018,Not at home,Fastfood,Less than $25k,1,Non-Hispanic White,7.692307,7.692307,0,3.846154,23.07692,19.23077,0,0,7.692307,30.76923
+2018,At home,Fastfood,Less than $25k,1,Non-Hispanic White,8.695652,15.21739,0,0,21.73913,28.26087,4.347826,0,0,21.73913
+2018,At home,SupermarketsStores,$25k - $55k,1,Other Hispanic,10,3.333333,0,0,16.66667,30,0,0,16.66667,23.33333
+2018,At home,ConvenienceStores,$25k - $55k,1,Other Hispanic,28.57143,0,0,0,14.28571,28.57143,0,0,0,28.57143
+2018,Not at home,Restaurant,$25k - $55k,1,Other Hispanic,0,16.66667,16.66667,0,33.33333,0,0,0,16.66667,16.66667
+2018,Not at home,Fastfood,$25k - $55k,1,Other Hispanic,8.695652,4.347826,0,0,26.08696,17.3913,4.347826,0,8.695652,30.43478
+2018,At home,Fastfood,$25k - $55k,1,Other Hispanic,40,0,0,0,13.33333,13.33333,0,0,26.66667,6.666667
+2018,At home,SupermarketsStores,Less than $25k,1,Other Hispanic,6.666667,6.666667,0,6.666667,10,16.66667,10,0,3.333333,40
+2018,Not at home,Restaurant,Less than $25k,1,Other Hispanic,0,50,0,0,25,25,0,0,0,0
+2018,At home,Restaurant,Less than $25k,1,Other Hispanic,0,0,0,0,22.22222,33.33333,11.11111,0,22.22222,11.11111
+2018,At home,Fastfood,Less than $25k,1,Other Hispanic,0,33.33333,0,0,0,33.33333,0,0,0,33.33333
+2018,Not at home,SupermarketsStores,$25k - $55k,1,Other Race - Including Multi-Racial,0,0,0,0,0,0,0,0,0,100
+2018,At home,SupermarketsStores,$25k - $55k,1,Other Race - Including Multi-Racial,8.247422,8.247422,0,1.030928,24.74227,21.64948,3.092783,0,7.216495,25.7732
+2018,At home,ConvenienceStores,$25k - $55k,1,Other Race - Including Multi-Racial,0,0,0,0,25,0,0,0,0,75
+2018,At home,Restaurant,$25k - $55k,1,Other Race - Including Multi-Racial,14.28571,14.28571,14.28571,14.28571,28.57143,14.28571,0,0,0,0
+2018,Not at home,Fastfood,$25k - $55k,1,Other Race - Including Multi-Racial,25,0,0,0,0,25,0,0,25,25
+2018,At home,Fastfood,$25k - $55k,1,Other Race - Including Multi-Racial,15.38461,7.692307,0,0,46.15385,23.07692,0,0,0,7.692307
+2018,Not at home,SupermarketsStores,Less than $25k,1,Other Race - Including Multi-Racial,0,0,0,0,0,0,0,0,0,100
+2018,At home,SupermarketsStores,Less than $25k,1,Other Race - Including Multi-Racial,8.695652,8.695652,0,1.449275,20.28986,23.18841,2.898551,0,11.5942,23.18841
+2018,Not at home,ConvenienceStores,Less than $25k,1,Non-Hispanic White,33.33333,0,0,0,0,0,0,0,33.33333,33.33333
+2018,At home,ConvenienceStores,Less than $25k,1,Other Race - Including Multi-Racial,0,0,0,0,0,0,100,0,0,0
+2018,Not at home,Restaurant,Less than $25k,1,Other Race - Including Multi-Racial,7.407407,7.407407,7.407407,0,11.11111,18.51852,0,0,11.11111,37.03704
+2018,At home,Restaurant,Less than $25k,1,Other Race - Including Multi-Racial,13.63636,18.18182,9.090909,9.090909,13.63636,27.27273,0,0,0,9.090909
+2018,At home,Fastfood,Less than $25k,1,Other Race - Including Multi-Racial,0,25,0,0,12.5,25,0,0,0,37.5
+2018,Not at home,ConvenienceStores,Less than $25k,1,Other Race - Including Multi-Racial,0,0,0,0,100,0,0,0,0,0
+average,misc,misc,misc,misc,misc,6.84138805,6.881506414,2.309030362,2.199674426,20.53144338,19.4842565,3.713856326,0.464876721,5.457527211,32.11644005
