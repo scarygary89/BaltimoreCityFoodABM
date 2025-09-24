@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-360/)
 
-This repo contains the developed Center for a Livable Future (CLF) meat consumption agent-based model that simulate the dinner consumption patterns of all residential zipcodes in Baltimore City. The results of this model was reported in the study titled, *Evaluating Select Factors and Mechanisms Influencing Meat Consumption in Baltimore City: An Agent-based Modeling Study* that is submitted in *BMC Public Health*. The agent-based model is coded using Python 3.6. The post-processing and data analysis was conducted using R 4.2.1. An overview of the model process is shown below in the image.
+This repo contains the developed Center for a Livable Future (CLF) meat consumption agent-based model that simulate the dinner consumption patterns of all residential zipcodes in Baltimore City. The results of this model was reported in the study titled, *Evaluating Select Factors and Mechanisms Influencing Meat Consumption in Baltimore City: An Agent-based Modeling Study* that is submitted in *BMC Public Health*. The agent-based model is coded using Python 3.9. The post-processing and data analysis was conducted using R 4.2.1. An overview of the model process is shown below in the image.
 
 ![Overivew](Figure1.png)
 
