@@ -1,4 +1,4 @@
-# Baltimore Food Consumption Agent-Based Model
+# Baltimore Meat Reduction Agent-Based Model
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/downloads/release/python-360/)
 
