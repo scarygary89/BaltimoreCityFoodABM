@@ -12,7 +12,7 @@ The following instructions will show the user how the Baltimore Food Consumption
 
 ### Prerequisite
 Interpreters for the following general purpose programming language packages must be installed for the ABM to run.
-* Python 3.6
+* Python 3.9
 * R 4.2.1
 
 In addition to the following language interpreters. The following python libraries must be imported.
